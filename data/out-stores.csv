@@ -1,0 +1,6 @@
+StoreId,Store Name,Address,City,State,Zip Code,Latitude,Longitude
+S1000-01,Alameda,2217 South Shore Center,Alameda,CA,94501,37.757790,-122.251460
+S1000-02,Lakeshore,3250 Lakeshore Ave,Oakland,CA,94610,37.809720,-122.244560
+S1000-03,Emeryville,5700 Christie Ave,Emeryville,CA,94608,37.837050,-122.294290
+S1000-04,El Cerrito,225 El Cerrito Plaza,El Cerrito,CA,94530,37.899060,-122.299770
+S1000-05,Berkeley,1885 University Ave,Berkeley,CA,94703,37.871610,-122.273330

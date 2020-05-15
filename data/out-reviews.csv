@@ -1,0 +1,999 @@
+ProductId,Time,Rating,Sentiment Score,Sentiment Label,Summary
+P1000-05,2019-12-30,2,-0.578790,negative,"fake sugar, fake flavors"
+P1000-05,2019-12-25,5,0.999280,positive,Delicious
+P1000-05,2019-08-14,5,0.855010,positive,Delicious!
+P1000-05,2019-08-03,5,0.900625,positive,Lipton to Go
+P1000-05,2019-11-22,5,0.827710,positive,Very tasty
+P1000-05,2019-08-16,3,0.535638,positive,Interesting flavor combination
+P1000-05,2019-08-26,4,0.331977,positive,Pretty Tasty
+P1000-05,2019-09-28,5,0.602081,positive,One of the Best flavors Lipton has come out with
+P1000-05,2019-12-19,4,0.621070,positive,A Refreshing Beverage
+P1000-05,2019-08-04,5,0.493797,positive,LOVE this Flavor
+P1000-05,2019-11-21,2,-0.538936,negative,real sugar AND fake sugar - the worst of both worlds
+P1000-05,2019-11-15,1,-0.703383,negative,Bring back the mandarin and mango
+P1000-05,2019-09-09,2,0.411605,positive,They were OK
+P1000-05,2019-09-04,5,0.923088,positive,Sweeeeeet!
+P1000-05,2019-10-01,3,0.689737,positive,Sweet drink
+P1000-05,2019-10-11,5,0.985940,positive,Mona Lisa
+P1000-05,2019-09-04,1,-0.523098,negative,"Natural?  I do not think so!  States sweetened with Honey! On the box, under ingredients, it also has Sucralose in it!"
+P1000-05,2019-11-26,1,-0.275377,negative,Disappointed
+P1000-05,2019-12-20,5,0.918725,positive,Tasty and convenient
+P1000-05,2019-08-15,5,0.799246,positive,Great instant green tea flavor
+P1000-05,2019-12-16,3,0.324213,positive,Too Sweet and artificial tasting!
+P1000-05,2019-11-21,5,0.747051,positive,Very Yummy
+P1000-05,2019-09-27,1,-0.578650,negative,Artificial tasting and yet another sweetener in it
+P1000-05,2019-11-28,1,-0.704928,negative,"Terrible! Chemical sweetener, not just honey."
+P1000-05,2019-10-13,3,0.639500,positive,Refreshing but OH THAT AFTERTASTE!
+P1000-05,2019-10-11,3,0.457217,positive,Like Kool-Aid
+P1000-05,2019-08-08,5,0.812768,positive,its like kool-aid for adults
+P1000-05,2019-08-08,3,0.300321,positive,not bad but not the best
+P1000-05,2019-12-09,5,0.702661,positive,Refreshing drink!
+P1000-05,2019-10-24,5,0.849130,positive,FAVORITE SUMMERTIME TEA!!
+P1000-05,2019-10-02,4,0.873550,positive,One of the best I've tasted!
+P1000-05,2019-09-19,2,-0.370785,negative,SUGAR!!
+P1000-05,2019-11-18,5,0.280559,positive,Very nice flavor
+P1000-05,2019-08-18,5,0.773710,positive,Sweet & Sugar-free
+P1000-05,2019-07-09,1,0.449686,positive,horrible
+P1000-05,2019-09-14,5,0.999413,positive,PLEASED
+P1000-05,2019-12-03,4,0.572653,positive,An artificial aftertaste
+P1000-05,2019-11-22,4,0.994625,positive,Tasty and Quick
+P1000-05,2019-09-16,3,0.578977,positive,Kool-Aid for adults!
+P1000-05,2019-09-18,2,-0.335957,negative,Could be OK if not for the artificial sweetener and flavors
+P1000-05,2019-09-21,4,0.573776,positive,"A nice, smooth drink.  Very refreshing"
+P1000-05,2019-10-30,2,-0.646968,negative,Simultaneously bland and artificial tasting
+P1000-05,2019-12-29,3,0.604168,positive,This is tea? Really?
+P1000-05,2019-11-23,3,0.330541,positive,"Nice flavor, but doesn't really taste like tea"
+P1000-05,2019-10-29,1,-0.419138,negative,not a fan
+P1000-05,2019-11-22,4,0.998892,positive,fruity blend
+P1000-05,2019-11-15,2,-0.393188,negative,Iced - Not so hot
+P1000-05,2019-10-21,1,0.545706,positive,Don't be fooled
+P1000-05,2019-09-08,3,0.534378,positive,"Tasty, but a bit too much splenda for my taste."
+P1000-05,2019-12-06,1,-0.469378,negative,MISLEADING- contains artificial sweeteners
+P1000-05,2019-09-03,4,-0.283097,negative,Simliar product to what's already on the market.
+P1000-05,2019-10-26,2,-0.606730,negative,"Yes, I prefer brewed iced tea, but this just tastes nasty"
+P1000-05,2019-08-01,2,-0.436539,negative,Better than Kool-Aid
+P1000-05,2019-08-02,3,0.625288,positive,Strong flavor!!!
+P1000-05,2019-08-07,1,-0.966808,negative,Yuck!
+P1000-05,2019-10-03,1,-0.708997,negative,Lipton To Go Stix need to go somewhere else!
+P1000-05,2019-09-30,1,-0.968061,negative,lipton green tea and honey
+P1000-05,2019-07-07,4,0.758960,positive,"Love Those Summer Berries, Sweet and Flavorful"
+P1000-05,2019-08-14,5,0.580809,positive,Very convenient and refreshing
+P1000-05,2019-10-04,3,-0.378221,negative,Misleading and far too sweet
+P1000-05,2019-11-04,2,0.343912,positive,Thumbs Down on Taste; Thumbs Up For Convenience
+P1000-05,2019-10-15,5,0.714206,positive,MangoLicious
+P1000-05,2019-10-25,1,-0.377824,negative,Not only sweetened with honey
+P1000-05,2019-08-27,2,0.552933,positive,"Too Sweet, wish they left out the Sucralose"
+P1000-05,2019-10-28,5,0.505912,positive,Loved It Even Though It's Sweetened!
+P1000-05,2019-07-26,4,0.641532,positive,Great For On-The-Go
+P1000-05,2019-10-24,3,0.305475,positive,Overly sweet
+P1000-05,2019-09-20,3,0.374766,positive,There are better options
+P1000-05,2019-08-04,5,0.910549,positive,excellent Item
+P1000-05,2019-09-30,5,0.979067,positive,Yum. Gets me to drink H20.
+P1000-05,2019-07-09,2,0.291169,positive,It's not as natural as Lipton advertises
+P1000-05,2019-10-23,4,-0.517907,negative,Better than most
+P1000-05,2019-07-07,3,0.444432,positive,OK - But I would Not Go Out Of My Way For It
+P1000-05,2019-12-13,2,-0.334044,negative,This one is NOT all that good
+P1000-05,2019-10-06,3,0.289480,positive,It's just Okay...
+P1000-05,2019-08-27,3,0.720917,positive,OK
+P1000-05,2019-11-27,4,0.509766,positive,"Delicious flavor, contains sucralose"
+P1000-05,2019-10-17,3,0.369119,positive,A tangy water enhancer but hardly tea
+P1000-05,2019-08-31,1,0.613086,positive,Disappointed!
+P1000-05,2019-11-30,5,0.578120,positive,Can half the amount
+P1000-05,2019-08-05,1,-0.804046,negative,Blah taste
+P1000-05,2019-09-02,2,-0.342495,negative,"Nice idea, but weak flavor"
+P1000-05,2019-11-14,1,-0.979254,negative,Garbage! False Description!
+P1000-05,2019-09-10,5,0.968422,positive,Awesome
+P1000-05,2019-08-17,3,0.515249,positive,"definite strawberry taste, but no real tea or acai taste"
+P1000-05,2019-11-15,1,0.671831,positive,SULFITES!
+P1000-05,2019-10-11,3,-0.410048,negative,More like Kool-Aid than Tea
+P1000-05,2019-09-19,2,-0.660971,negative,Lipton To Go Stix Iced Green Tea Mix
+P1000-05,2019-12-30,4,0.898010,positive,nice drink
+P1000-05,2019-09-03,4,0.933176,positive,"Not natural, sweetened with Splenda(Sucralose)"
+P1000-05,2019-08-31,5,0.804782,positive,refreshing and easy to make
+P1000-05,2019-07-28,4,0.355077,positive,These are pretty good!
+P1000-05,2019-11-22,4,-0.282818,negative,More fruit than Tea
+P1000-05,2019-07-21,5,0.686373,positive,Love everything about these teas!
+P1000-05,2019-10-18,1,-0.295155,negative,"Didn't Like it, Sorry"
+P1000-05,2019-10-31,4,0.782662,positive,Really Like
+P1000-05,2019-12-04,2,0.542186,positive,sucralose = yuck
+P1000-05,2019-12-14,2,-0.510198,negative,Very artificial
+P1000-05,2019-08-08,1,-0.545062,negative,"""Partially"" sweetened with honey"
+P1000-05,2019-12-22,3,0.286285,positive,Very sweet & a little misleading
+P1000-05,2019-09-26,2,-0.511840,negative,You can really taste that sucralose
+P1000-05,2019-09-23,4,0.583150,positive,"Mango & pineapple are nice, but delicioso on ice"
+P1000-05,2019-09-26,4,0.468123,positive,my teens loved it; I thought it a bit weird
+P1000-05,2019-09-28,1,0.489801,positive,Beware Advertising!
+P1000-05,2019-09-24,5,0.794195,positive,So refreshing!
+P1000-05,2019-09-27,3,-0.341576,negative,"Not bad, has a bit of a weird aftertaste, though"
+P1000-05,2019-09-22,3,-0.393146,negative,Do not use as directed. This product needs diluted.
+P1000-05,2019-08-10,3,0.762213,positive,Tastes like a melted popsicle :)
+P1000-05,2019-11-08,3,0.308410,positive,OK but other brands are better
+P1000-05,2019-12-18,4,0.815396,positive,Not too sweet
+P1000-05,2019-09-16,2,0.319118,positive,Good taste but fatally flawed
+P1000-05,2019-08-15,1,-0.542758,negative,NOT all Natural!!! warning contains sucralose
+P1000-05,2019-12-05,1,-0.964626,negative,sucralose
+P1000-05,2019-07-03,1,-0.704928,negative,Sucralose AKA Nutra-sweet and maltodextrin CHEM Tea
+P1000-05,2019-10-18,5,0.904402,positive,Best Iced Tea I've Ever Tasted
+P1000-05,2019-11-29,5,0.733724,positive,Better than Arizona Iced Tea Stix (gasp!)
+P1000-05,2019-11-29,3,-0.354079,negative,Way too sweet
+P1000-05,2019-11-19,2,0.425928,positive,Horribly sweet
+P1000-05,2019-12-09,3,0.485225,positive,Very average product
+P1000-05,2019-12-01,1,-0.613016,negative,HORRIBLE
+P1000-05,2019-07-18,5,0.935563,positive,Tasty Tea...
+P1000-05,2019-11-12,2,-0.538429,negative,They forgot to mention the Sucralose
+P1000-05,2019-09-21,1,-0.411669,negative,Full Body Shake GROSS
+P1000-05,2019-07-06,4,0.939881,positive,tastes great
+P1000-05,2019-10-13,2,-0.687224,negative,The pineapple flavor is a bit too much for me...
+P1000-05,2019-09-08,2,-0.307658,negative,"Why Lipton why, sure it tastes fine, but artificial sweetner?"
+P1000-05,2019-09-24,1,-0.423127,negative,I've been duped!
+P1000-05,2019-09-06,3,0.803457,positive,Sweet Strawberry drink without all the calories and sugar
+P1000-05,2019-08-22,1,0.398982,positive,Total Horse Piss!
+P1000-05,2019-08-04,2,-0.425185,negative,All I taste is Splenda
+P1000-05,2019-08-09,5,0.625397,positive,Addicted!
+P1000-05,2019-07-13,3,0.457217,positive,Not That Great
+P1000-05,2019-11-19,5,0.759465,positive,Very good
+P1000-05,2019-10-21,5,0.666691,positive,Delicious and Not Overly Sweet
+P1000-05,2019-10-11,5,0.766546,positive,Fantastic Product
+P1000-05,2019-09-13,5,0.853230,positive,"Convenient, low calorie, tastes very good"
+P1000-05,2019-10-08,1,-0.759204,negative,Deceptive advertising- will not purchase again
+P1000-05,2019-11-18,1,-0.905751,negative,"Doesn't taste like Tea, Honey, Pomegranate or anything else natural"
+P1000-05,2019-07-30,5,-0.606384,negative,Good taste and only 5 calories
+P1000-05,2019-12-27,5,0.724232,positive,Delicious!
+P1000-05,2019-10-04,1,-0.427272,negative,Strong artificial taste plus another synthetic sweetener in it
+P1000-05,2019-10-14,4,0.635340,positive,A nice blend of flavors and no real after taste
+P1000-05,2019-12-30,4,0.879415,positive,Very fruity and a distinct honey flavor
+P1000-05,2019-12-22,1,-0.508160,negative,Totally UNnatural!
+P1000-05,2019-12-23,4,0.414467,positive,Can't find the Tea
+P1000-05,2019-11-28,3,-0.564255,negative,mixed reviews from my family
+P1000-05,2019-10-04,2,-0.649641,negative,Yuck
+P1000-05,2019-09-29,4,0.660542,positive,"Convenient, sweet, low-cal alternative to sugared drinks"
+P1000-05,2019-10-13,5,0.662343,positive,"Very good flavor and taste, a bit too sweet!"
+P1000-05,2019-10-24,2,0.428179,positive,"Lipton's Sucralose Sweetened ""To Go"" Stix - Not A Fan..."
+P1000-05,2019-08-07,2,0.304664,positive,Tastes artificial and is
+P1000-05,2019-07-19,5,0.483156,positive,"fruit juice taste, diet friendly, healthy on-the-go drink"
+P1000-05,2019-10-01,3,-0.310784,negative,Might be a bit too sweet for most palates
+P1000-05,2019-07-10,1,0.522113,positive,Yuk!
+P1000-05,2019-11-10,4,0.323035,positive,Reasonable alternative to sugary drinks
+P1000-05,2019-11-09,3,0.308125,positive,Weird after taste.
+P1000-05,2019-07-31,5,0.975144,positive,great tea mix!
+P1000-05,2019-08-03,5,0.736231,positive,"Very good flavor, but slow to mix"
+P1000-05,2019-10-27,5,0.995722,positive,Excellent tea flavor
+P1000-05,2019-11-28,4,0.643285,positive,Refreshing and Tasty
+P1000-05,2019-08-13,4,0.770225,positive,Convenient packaging and good flavor
+P1000-01,2019-11-15,5,0.824944,positive,Our favorite coffee at a fantastic price
+P1000-01,2019-10-27,4,-0.394332,negative,"Tasty, but too messy."
+P1000-01,2019-09-11,5,0.849603,positive,The best K cup coffee so far
+P1000-01,2019-08-15,5,0.764061,positive,Great morning wakeup cup of coffee
+P1000-01,2019-08-26,5,0.459226,positive,You really can have it all
+P1000-01,2019-12-27,5,0.990975,positive,Digging the Fog Chaser
+P1000-01,2019-07-20,5,0.576907,positive,Great taste
+P1000-01,2019-09-11,5,0.733391,positive,I love Fog Chaser
+P1000-01,2019-11-19,5,0.798692,positive,By far the best cup of coffee ever!!!
+P1000-01,2019-12-23,5,0.862139,positive,Nice Strong Cup of Coffee
+P1000-01,2019-12-05,4,0.368111,positive,Very Good Tasting/Pleasant to Drink
+P1000-01,2019-09-05,5,0.963997,positive,Delicious
+P1000-01,2019-11-20,4,-0.416965,negative,"Good Coffee, Different Packaging"
+P1000-01,2019-09-01,5,0.695680,positive,Best tasting coffee I have had for the Keurig
+P1000-01,2019-12-18,5,0.429655,positive,No fog here!.
+P1000-01,2019-08-07,5,0.919167,positive,Very good!
+P1000-01,2019-08-31,4,0.807118,positive,Fog Chaser for Sure!
+P1000-01,2019-09-11,5,0.915805,positive,Don't Look Like K-Kups
+P1000-01,2019-08-23,5,0.392375,positive,Robust and true...
+P1000-01,2019-11-07,5,0.953673,positive,Love the flavor
+P1000-01,2019-11-14,5,0.943435,positive,"San Francisco Bay Coffee One Cup for Keurig K-Cup Brewers, Fog Chaser, 36-Count"
+P1000-01,2019-07-29,5,0.721298,positive,finally coffee for my picky palate!
+P1000-01,2019-08-09,5,0.873658,positive,New favorite Coffee!
+P1000-01,2019-07-24,4,0.605796,positive,Compared to other dark or bold brews...
+P1000-01,2019-11-18,4,0.798668,positive,"Good Coffee, Great Deal"
+P1000-01,2019-10-30,5,0.698184,positive,I'm Hooked!
+P1000-01,2019-07-29,1,-0.413087,negative,Disappointing
+P1000-01,2019-10-16,1,-0.646302,negative,"All packaging, lacks flavor"
+P1000-01,2019-11-29,1,-0.855304,negative,Rip Off
+P1000-01,2019-09-30,1,-0.996063,negative,Over-roasted and Quickly Stale
+P1000-01,2019-07-15,2,-0.537195,negative,not a bold cup of coffee
+P1000-01,2019-09-30,2,-0.298176,negative,Beware even if you don't open you can't return
+P1000-01,2019-10-19,5,0.998427,positive,Much Better than I expected!
+P1000-01,2019-12-18,5,0.954266,positive,"fog chaser, fantastic!"
+P1000-01,2019-08-27,5,-0.288402,negative,Better than every real K-Cup there is
+P1000-01,2019-08-27,5,0.705857,positive,ahhh smell the coffee!
+P1000-01,2019-10-30,5,0.687935,positive,The New Fog Chaser
+P1000-01,2019-10-03,5,0.836860,positive,Fast became one of my favorite K-Cups
+P1000-01,2019-10-27,5,0.616673,positive,The best Keurig coffee!
+P1000-01,2019-08-29,5,0.835011,positive,For Serious Cover Lovers
+P1000-01,2019-07-04,4,0.996810,positive,Environmentally Better
+P1000-01,2019-11-13,5,0.624370,positive,Eye Opener
+P1000-01,2019-09-17,5,0.892850,positive,"Great Taste, Less waste!"
+P1000-01,2019-07-22,5,0.697558,positive,"Bold, fresh flavor"
+P1000-01,2019-07-04,5,0.739602,positive,Yuuuuuum!
+P1000-01,2019-07-03,5,0.999920,positive,Delicious!
+P1000-01,2019-07-14,5,0.980580,positive,sold
+P1000-01,2019-09-20,5,0.830188,positive,Great coffee!
+P1000-01,2019-07-09,4,0.850415,positive,"SF Bay ""Fog Chaser"""
+P1000-01,2019-12-22,4,0.773282,positive,Fogchaser Coffee
+P1000-01,2019-08-21,4,0.998325,positive,Very Good
+P1000-01,2019-08-31,5,0.675439,positive,Exceptional quality!
+P1000-01,2019-11-02,4,0.543616,positive,Great Coffee - Does not store well/Porous Bottom
+P1000-01,2019-08-06,4,0.768219,positive,Good coffee
+P1000-01,2019-07-27,3,-0.640403,negative,Not full K-cup
+P1000-01,2019-10-19,5,0.421276,positive,Real Coffee...less plastic
+P1000-01,2019-11-28,1,-0.391607,negative,Chasing the Fog and Forgetting the Bug!
+P1000-01,2019-07-30,5,0.619486,positive,Excellent Taste and More Robust Brewing with These Type of Pods
+P1000-01,2019-10-13,5,0.949253,positive,Excellent Coffee
+P1000-01,2019-12-11,3,0.446956,positive,Don't let the different form factor scare you off - they'll work in your Keurig
+P1000-01,2019-08-15,5,-0.442045,negative,Less plastic and better taste? Yes please!
+P1000-01,2019-07-07,5,0.892443,positive,BAM!! Pure adrenalin!
+P1000-01,2019-12-10,5,0.946275,positive,Great way to make K cup coffee
+P1000-01,2019-11-27,1,-0.795394,negative,Shelf Life
+P1000-01,2019-07-10,5,0.962378,positive,Great coffee
+P1000-01,2019-12-23,5,0.996390,positive,enjoy this brand of coffee
+P1000-01,2019-07-19,5,0.613990,positive,"Tasty, strong brew"
+P1000-01,2019-07-29,5,0.760138,positive,Best cup of coffee from a Keurig yet.
+P1000-01,2019-08-27,4,0.542320,positive,Delightfully Surprised
+P1000-01,2019-08-27,2,-0.304348,negative,"WARNING - open mesh coffee pods, NOT K-Cups"
+P1000-01,2019-10-25,4,0.578773,positive,Good Coffee at Good Price (good=not GREAT)
+P1000-01,2019-12-18,5,0.823224,positive,Re-use
+P1000-01,2019-11-01,1,-0.868799,negative,Money down the drain!
+P1000-01,2019-11-20,5,0.993623,positive,great coffee
+P1000-01,2019-08-10,5,0.557950,positive,Great coffee. Great price. Get a ziploc & enjoy
+P1000-01,2019-10-31,3,-0.307893,negative,"If you like McDonalds Coffee...,"
+P1000-01,2019-09-18,5,0.623916,positive,Great Product
+P1000-01,2019-08-17,5,0.524126,positive,Great Tasting Strong Coffee!
+P1000-01,2019-12-16,2,-0.608125,negative,Half a K-Cup?
+P1000-01,2019-12-10,5,0.947281,positive,"Not residue, but crema!"
+P1000-01,2019-12-11,1,-0.834021,negative,Dont Buy it
+P1000-01,2019-11-30,2,-0.858472,negative,yuk!!!!!
+P1000-01,2019-07-14,1,-0.558751,negative,Fog chaser
+P1000-01,2019-11-07,5,0.599589,positive,MY PARENTS LOVE IT!
+P1000-01,2019-12-29,5,-0.381020,negative,Great Coffee
+P1000-01,2019-09-21,5,0.749075,positive,Rogers Kcups
+P1000-01,2019-12-27,5,0.599788,positive,Best Keurig cup of coffee I've had!!
+P1000-01,2019-12-21,3,0.729059,positive,Average cup of coffee
+P1000-01,2019-11-09,3,0.779519,positive,Eh. Taste is ok.
+P1000-01,2019-11-08,5,0.888119,positive,GREAT COFFEE
+P1000-01,2019-11-28,5,0.683938,positive,"No Fog involved here, clearly a yummy winner"
+P1000-01,2019-09-09,5,0.921270,positive,Great Bargain at this price
+P1000-01,2019-07-21,5,0.800523,positive,sf kcup coffee review
+P1000-01,2019-11-29,5,0.591680,positive,Very good coffee with less packaging
+P1000-01,2019-09-09,4,0.651098,positive,Pleased with purchase so far.
+P1000-01,2019-12-29,5,0.958785,positive,fog chaser
+P1000-01,2019-08-13,5,0.643966,positive,An inexpensive alternative to the K-cup
+P1000-01,2019-08-28,3,-0.763072,negative,"Yay, less plastic! Boo, weak coffee!"
+P1000-01,2019-09-28,5,0.559852,positive,Great job!
+P1000-01,2019-09-15,5,0.758879,positive,Review for non-coffee snobs
+P1000-01,2019-07-31,5,0.936803,positive,Fog Chaser K-cups
+P1000-01,2019-10-27,2,0.617396,positive,unfortunately underwhelming
+P1000-01,2019-12-05,5,0.641003,positive,Simple the Best Keurig Cups
+P1000-01,2019-09-26,5,0.695822,positive,Fresh-brewed taste for way less $$!
+P1000-01,2019-12-19,5,0.750487,positive,Surprisingly good!
+P1000-01,2019-08-08,5,0.575253,positive,"Good Value, Good Taste"
+P1000-01,2019-07-05,5,0.469846,positive,size and shape worried me- but taste is where they excel
+P1000-01,2019-09-03,5,0.822569,positive,My new favorite
+P1000-01,2019-09-04,5,0.988947,positive,Excellent coffee!
+P1000-01,2019-10-10,5,0.423212,positive,Great coffee and great pod/kups
+P1000-01,2019-08-07,3,0.365480,positive,This is supposed to be French Roast????
+P1000-01,2019-08-28,5,0.856337,positive,"Very good coffee, nice alternative to k-cup"
+P1000-01,2019-08-31,1,0.312467,positive,Not a Real K Cup packaging//DO NOT BUY
+P1000-01,2019-07-12,4,0.901137,positive,Great cup of coffee and the price is right!
+P1000-01,2019-11-25,5,0.361104,positive,Fog Chaxer Coffee
+P1000-01,2019-10-17,5,0.948069,positive,Coffee as good as green mountain!
+P1000-01,2019-08-04,5,0.487379,positive,Good cup of coffee
+P1000-01,2019-12-25,4,0.512431,positive,A Great Cup & Storage is not a problem
+P1000-01,2019-11-15,3,0.315799,positive,Not Really K-Cups But They Do Fit in Your Keurig
+P1000-01,2019-10-25,5,0.450244,positive,"Tastes great, no mess"
+P1000-01,2019-08-12,5,-0.337337,negative,"Strong, But Not Acidic or Bitter"
+P1000-01,2019-10-08,5,0.918372,positive,"If you like it strong, this one's for you!"
+P1000-01,2019-12-30,1,-0.761489,negative,Not k-cups
+P1000-01,2019-12-18,5,0.990183,positive,JMac
+P1000-01,2019-09-08,5,0.999482,positive,Great Coffee
+P1000-01,2019-12-27,5,0.731272,positive,Less plastic - Like the Earth needs another cup....
+P1000-01,2019-07-11,4,0.432172,positive,Strongest K-Cup coffee out there
+P1000-01,2019-10-29,5,0.426158,positive,Delicious
+P1000-01,2019-12-10,1,-0.354371,negative,disappointed with my first SF Bay coffee
+P1000-01,2019-10-29,5,0.663511,positive,"A hearty, fresh, and somewhat bold taste"
+P1000-01,2019-08-14,5,0.701611,positive,K-Cup that tastes like coffee
+P1000-01,2019-11-18,2,-0.520824,negative,Not as Bold as advertised  ;(
+P1000-01,2019-08-29,4,0.887257,positive,"Good coffee, creative product design, great price!"
+P1000-01,2019-10-28,5,0.848085,positive,"Great flavor, less waste!"
+P1000-01,2019-12-30,5,0.977779,positive,"Great coffee, great price and  much greener!"
+P1000-01,2019-10-08,5,0.998793,positive,Reasonably Priced Delicious Coffee
+P1000-01,2019-07-24,5,0.663813,positive,Great find!
+P1000-01,2019-12-28,5,0.582187,positive,Don't let the smell fool ya. It's pretty awesome.
+P1000-01,2019-08-15,5,0.998914,positive,Really good coffee!!
+P1000-01,2019-07-17,1,-0.611687,negative,Worst Ever!
+P1000-01,2019-07-19,5,0.856735,positive,If You Like a Stong Brew
+P1000-01,2019-12-22,5,0.607561,positive,Wow...fantastic coffee at a great price
+P1000-01,2019-12-03,4,0.814288,positive,Great deal!
+P1000-01,2019-08-28,5,0.884581,positive,Excellent coffee from a family-owned company
+P1000-01,2019-09-19,5,0.719602,positive,Great tasting coffee
+P1000-01,2019-11-26,5,0.846200,positive,Love it!
+P1000-01,2019-10-02,5,0.821576,positive,Makes the Keurig finally worth the money
+P1000-01,2019-11-03,2,-0.798460,negative,"""Green"" K-cup packaging sacrifices flavor"
+P1000-01,2019-07-19,4,0.649032,positive,"Great Price, but change in concept...."
+P1000-01,2019-11-04,3,0.376893,positive,Great Coffee -- some of cups flawed
+P1000-01,2019-12-07,5,0.884896,positive,One Cup of WONDERFUL!
+P1000-01,2019-12-09,2,-0.319528,negative,Good coffee with one BIG flaw!
+P1000-01,2019-07-08,5,0.633546,positive,"Absolutely delicious, best cup of coffee around!"
+P1000-01,2019-07-07,5,0.650165,positive,Good Cup of Coffee
+P1000-01,2019-08-26,5,0.808025,positive,Fog Chaser K-cups
+P1000-01,2019-10-18,3,0.613525,positive,Strong brew
+P1000-01,2019-12-17,5,0.919371,positive,Love this new packaging!
+P1000-01,2019-11-26,5,0.590321,positive,Good stuff!
+P1000-01,2019-08-30,5,0.839640,positive,Good value!
+P1000-01,2019-12-10,5,0.604720,positive,"Not Quite a K-Cup, but awesome coffee!"
+P1000-01,2019-10-20,5,-0.388703,negative,Wow It Really Works!
+P1000-01,2019-07-03,5,0.929872,positive,great idea
+P1000-01,2019-07-11,5,0.796063,positive,"Great aroma, rich taste"
+P1000-01,2019-12-18,1,0.565116,positive,First Time Really Disappointed
+P1000-01,2019-11-17,1,-0.490074,negative,Bad coffee
+P1000-01,2019-10-29,5,0.999935,positive,This is great coffee!
+P1000-01,2019-10-13,1,-0.734974,negative,Not good coffee
+P1000-01,2019-10-14,3,0.976465,positive,Price is right
+P1000-01,2019-10-05,4,0.545204,positive,Not bad - Had better - I'd buy it again
+P1000-01,2019-11-29,4,0.547101,positive,Good basic coffee for your Keurig
+P1000-01,2019-07-10,5,0.817287,positive,Sanfrancisco Bay Coffee
+P1000-01,2019-08-12,5,0.928942,positive,Better Than Most K-Cups!
+P1000-01,2019-10-26,3,-0.390537,negative,"Good coffee, bad packaging"
+P1000-01,2019-09-19,5,0.579217,positive,really good coffee for a really good price
+P1000-01,2019-10-01,4,-0.313378,negative,Works in the B3000 brewer
+P1000-01,2019-08-02,5,0.662658,positive,"Bold coffee from k-cups, finally!"
+P1000-01,2019-12-21,5,0.996082,positive,It's different from k-cups
+P1000-01,2019-11-05,5,0.953079,positive,Great Coffee
+P1000-01,2019-09-13,5,0.793750,positive,Replaced Starbucks as my all time favorite!
+P1000-01,2019-08-25,4,0.773266,positive,SFbay Breakfast Blend
+P1000-01,2019-08-27,5,0.331468,positive,oh well
+P1000-01,2019-09-26,5,0.918717,positive,SIMPLY THE BEST COFFEE OUT THERE & THE BEST PRICE!!
+P1000-01,2019-08-21,5,-0.272290,negative,Great cheap cup of coffee
+P1000-01,2019-12-21,5,0.596376,positive,A step in the right perfection
+P1000-01,2019-08-20,4,0.579819,positive,Good quality coffee-- cheaper and less waste
+P1000-01,2019-09-28,5,0.927453,positive,"Good strong coffee (new favorite), and a bit better for the environment!"
+P1000-01,2019-10-01,5,0.538844,positive,Keurig Who????
+P1000-01,2019-12-13,5,0.686327,positive,Good Cup.. Great price.
+P1000-01,2019-09-16,5,0.684244,positive,Great cup of joe
+P1000-01,2019-10-10,5,0.692935,positive,Fog Chaser - Superb!
+P1000-01,2019-09-20,5,0.705373,positive,"Great coffee, less waste in packaging"
+P1000-01,2019-11-30,5,0.377934,positive,Love Fog Chaser!
+P1000-01,2019-08-15,5,0.894616,positive,Excellent Coffee Blend at Best Price
+P1000-01,2019-09-18,5,0.951652,positive,Great coffee
+P1000-01,2019-08-09,4,0.476014,positive,"Good, but I don't like it black at all"
+P1000-01,2019-12-27,5,0.900780,positive,San Francisco Bay ( fog chaser )
+P1000-01,2019-10-30,3,0.420554,positive,"Not the best, not the worst."
+P1000-01,2019-10-21,1,-0.539657,negative,fog chaser!!
+P1000-01,2019-11-24,5,0.995841,positive,Nice and strong!
+P1000-01,2019-08-10,5,0.553124,positive,"Great price for a strong, delicious k-cup coffee!"
+P1000-01,2019-08-08,5,0.669406,positive,Good Solid Cup of Coffee
+P1000-01,2019-07-25,1,-0.579136,negative,horrible coffee
+P1000-01,2019-07-14,3,0.665012,positive,Doesn't fit in all Keurig makers
+P1000-01,2019-07-16,5,-0.363190,negative,Great Coffee!
+P1000-01,2019-10-16,1,-0.998559,negative,95% of cups brew very weak
+P1000-01,2019-12-09,3,-0.534132,negative,Flavor ok but they do not fit right
+P1000-01,2019-12-26,3,-0.998933,negative,Not really K-Cups
+P1000-01,2019-12-24,5,0.675671,positive,Delicious
+P1000-01,2019-10-15,5,0.787758,positive,Great Product + Excellent Price!
+P1000-01,2019-08-20,5,0.544331,positive,Excellent Taste and More Robust Brewing with These Type of Pods
+P1000-01,2019-12-16,4,0.565935,positive,"Good Alternative to More Pricey ""Bold"" K-Cups"
+P1000-01,2019-07-14,5,0.825289,positive,dynamite!
+P1000-01,2019-08-27,4,-0.364495,negative,Decent product but not a good way to keep fresh
+P1000-01,2019-12-13,5,0.980243,positive,Robust and Eye Openning
+P1000-01,2019-11-15,4,0.985070,positive,Great Biold Taste
+P1000-01,2019-07-27,4,0.637564,positive,very good coffee
+P1000-01,2019-11-02,3,0.768835,positive,Love the packaging! Could be a smoother coffee
+P1000-01,2019-08-09,4,0.818234,positive,"Great, Strong Coffee"
+P1000-01,2019-07-17,4,0.579324,positive,SF Bay Fog Chaser K Cup - A pleasant surprise
+P1000-01,2019-07-15,5,0.536351,positive,Wakes me up!
+P1000-01,2019-11-13,3,0.614779,positive,San Fransisco k-cup
+P1000-01,2019-10-26,5,0.758599,positive,"Great taste, impressed"
+P1000-01,2019-07-14,2,0.617157,positive,"Average, at best.  (You get what you pay for...)"
+P1000-01,2019-07-27,3,-0.634537,negative,San Francisco Bay Coffee
+P1000-01,2019-07-25,4,0.524790,positive,"Good value for ""Kcups"""
+P1000-01,2019-09-29,5,0.797841,positive,Cheaper price and better flavor
+P1000-01,2019-08-20,5,0.767684,positive,Coffee
+P1000-01,2019-11-13,5,0.662734,positive,Great cup of coffee
+P1000-01,2019-11-24,4,0.315492,positive,Odd package but good coffee
+P1000-01,2019-10-21,4,0.888564,positive,Surprisingly Good
+P1000-01,2019-07-20,5,0.553777,positive,Fantastic Product and a BIG Surprise
+P1000-01,2019-09-24,5,-0.447170,negative,"Not your average K-cup, but worth a taste"
+P1000-01,2019-09-15,3,0.337678,positive,My wife thinks it tastes like Maxwell House
+P1000-01,2019-09-02,4,0.401594,positive,Great cup of coffee
+P1000-01,2019-07-25,5,0.475854,positive,"A ""Greener"" K-Cup!"
+P1000-01,2019-11-19,5,0.810822,positive,Good coffee
+P1000-01,2019-12-06,5,0.993335,positive,Good Coffee!
+P1000-01,2019-12-02,4,0.529656,positive,"New K-Cup brewers are great, especially the lower price."
+P1000-01,2019-09-09,1,-0.647726,negative,The worst!!
+P1000-01,2019-09-05,5,0.638263,positive,Great value.
+P1000-04,2019-11-27,5,0.308482,positive,This coffee has saved me more than once
+P1000-04,2019-08-01,5,0.852839,positive,Via Colombia is fabulous coffee!
+P1000-04,2019-11-20,5,0.465300,positive,Hello? What R U Waiting 4? Great Deal!
+P1000-04,2019-09-23,5,0.923250,positive,Good product
+P1000-04,2019-12-20,5,0.779267,positive,Coffee
+P1000-04,2019-10-19,4,0.492545,positive,Tastes great; quick expiration date
+P1000-04,2019-08-10,5,0.985854,positive,Wow!  Now that's a cuppa coffee!
+P1000-04,2019-10-09,4,0.603888,positive,Better than other instant coffees...
+P1000-04,2019-08-19,4,0.588229,positive,Great tasting instant coffee
+P1000-04,2019-11-02,1,-0.664345,negative,Disgusting
+P1000-04,2019-09-10,4,0.362667,positive,Convenient and bold.
+P1000-04,2019-07-08,5,0.983058,positive,Other packings
+P1000-04,2019-07-21,5,0.928454,positive,My office has horrible coffee
+P1000-04,2019-10-01,5,0.409953,positive,Wonderful Coffee
+P1000-04,2019-12-14,5,0.346073,positive,Great for coffee emergencies.
+P1000-04,2019-11-29,5,0.587691,positive,Starbucks VIA- Great!
+P1000-04,2019-07-20,5,0.591265,positive,Still A Fan!
+P1000-04,2019-08-08,5,0.719230,positive,Instant brew!
+P1000-04,2019-12-21,4,0.345382,positive,"Fantastic Coffee, BUT..."
+P1000-04,2019-10-02,5,0.779162,positive,Better than costco!
+P1000-04,2019-09-21,5,0.999361,positive,Best in Taste
+P1000-04,2019-07-29,5,0.575229,positive,I LOVE THESE!
+P1000-04,2019-10-23,3,-0.724241,negative,out of date product!
+P1000-04,2019-12-01,4,0.953365,positive,Amazing for Instant
+P1000-04,2019-09-08,5,0.773328,positive,YUM!!!
+P1000-04,2019-07-11,5,0.914650,positive,Love this deal :)
+P1000-04,2019-11-27,5,0.525868,positive,Perfect even for a coffee snob
+P1000-04,2019-10-11,5,0.973303,positive,Gret cup of java
+P1000-04,2019-08-15,5,0.682593,positive,Great coffee!!
+P1000-04,2019-08-02,5,0.650860,positive,Great Buy!
+P1000-04,2019-07-09,3,-0.514118,negative,Expiration dates - sometimes chewing gum stick consistency
+P1000-04,2019-07-13,4,0.463966,positive,check expiration date!
+P1000-04,2019-09-06,3,0.559725,positive,Not bad when I split the package into 2 portions
+P1000-04,2019-07-26,5,0.623269,positive,Great Instant Coffee
+P1000-04,2019-10-20,5,0.546444,positive,This stuff is amazing
+P1000-04,2019-12-12,5,0.916919,positive,Seriously Good Instant
+P1000-04,2019-10-24,4,0.706614,positive,Expire soon!
+P1000-04,2019-12-13,2,-0.472584,negative,Not much good to say...
+P1000-04,2019-07-08,5,0.882218,positive,It's coffee
+P1000-04,2019-09-16,4,0.345961,positive,Pretty good for instant coffee
+P1000-04,2019-11-19,5,0.553446,positive,Best brand of instant coffee
+P1000-04,2019-08-07,4,0.640465,positive,They actually got the original flavor into these tiny packages!
+P1000-04,2019-07-19,1,0.412830,positive,I also received nearly-expired product
+P1000-04,2019-08-17,5,0.444070,positive,I wasn't a big coffee drinker until I tried this. Now I'm hooked
+P1000-04,2019-09-16,5,0.566346,positive,Yum!  Tastes like fresh-brewed Starbucks... hot or iced... so convenient
+P1000-04,2019-08-30,5,0.745954,positive,Why pay more?
+P1000-04,2019-11-07,4,0.673615,positive,"Great product, but near expiration date"
+P1000-04,2019-07-11,5,0.883452,positive,wow are these handy!
+P1000-04,2019-10-07,5,-0.580306,negative,no issues with expiration date here!
+P1000-04,2019-11-28,3,0.272066,positive,"When grading on a curve, Via holds up."
+P1000-04,2019-08-19,5,0.871937,positive,Great For Iced Coffee!!!!
+P1000-04,2019-07-05,4,0.432928,positive,Only regret - expiration date
+P1000-04,2019-11-08,5,0.991065,positive,as good as an instant can be
+P1000-04,2019-10-25,5,0.657341,positive,Favorite Afternoon Instant Coffee
+P1000-04,2019-11-06,5,0.701844,positive,I love this !
+P1000-04,2019-11-06,5,0.375649,positive,Quick and Good
+P1000-04,2019-07-29,5,0.800260,positive,YUM!!!  These are so handy and so tasty!
+P1000-04,2019-08-12,1,-0.849907,negative,Expired Product
+P1000-04,2019-09-18,2,0.370285,positive,Not comparable to brewed Starbucks coffee
+P1000-04,2019-07-22,5,0.726716,positive,Mmmm
+P1000-04,2019-11-11,5,0.666634,positive,easy....quick....convenient
+P1000-04,2019-12-04,2,-0.539158,negative,Taste the burn!
+P1000-04,2019-08-04,1,-0.880106,negative,The photo is deceptive
+P1000-04,2019-08-08,1,-0.910229,negative,gross
+P1000-04,2019-11-24,5,0.954417,positive,good hot or cold
+P1000-04,2019-07-17,5,0.819420,positive,Good Value!
+P1000-04,2019-09-15,5,0.949490,positive,Starbucks Instant Coffee
+P1000-04,2019-10-04,5,0.981264,positive,Starbucks Coffee
+P1000-04,2019-11-06,5,0.646314,positive,Starbucks in West Africa.
+P1000-04,2019-08-02,5,0.775770,positive,"Good coffee, and much more affordable"
+P1000-04,2019-11-28,5,0.513267,positive,the best instant out there for me
+P1000-04,2019-12-09,5,0.770658,positive,Great tasting coffee at a great price!
+P1000-04,2019-10-20,5,0.746045,positive,Less than 50 cents a cup
+P1000-04,2019-08-06,1,-0.706698,negative,coffee
+P1000-04,2019-11-24,5,0.601463,positive,Just Like Brewed Starbucks Coffee
+P1000-04,2019-09-10,1,-0.615811,negative,Terrible customer service
+P1000-04,2019-10-04,4,0.547697,positive,"I'm impressed. Tastes like real coffee. Still not better than brewed, but hey."
+P1000-04,2019-11-15,5,0.751030,positive,Great value for awesome instant coffee
+P1000-04,2019-10-20,5,0.751346,positive,Starbucks Via - Just like a cup of fresh Starbucks!
+P1000-04,2019-07-10,4,0.764309,positive,Starbucks Via Italian
+P1000-04,2019-07-09,5,0.744738,positive,Great. Just a little pricey
+P1000-04,2019-12-25,1,0.983171,positive,Why is the decaf almost twice as expensive?
+P1000-04,2019-07-10,4,0.960658,positive,"Good flavor, nice and quick"
+P1000-04,2019-11-19,1,-0.610859,negative,nearly expired product
+P1000-04,2019-12-17,5,-0.381551,negative,Take a sharp object to defend your self
+P1000-04,2019-10-17,5,0.818531,positive,OUTSTANDING
+P1000-04,2019-09-07,3,-0.469363,negative,Watch out for expiration date and packaging
+P1000-04,2019-09-17,3,0.653708,positive,"Not Great, But Much Better Than The Free Coffee at Work"
+P1000-04,2019-10-04,5,-0.375818,negative,Best Instant Coffee Ever
+P1000-04,2019-11-22,5,0.467410,positive,Made a believer of me
+P1000-04,2019-07-25,5,0.667209,positive,A real treat!
+P1000-04,2019-09-04,5,0.974669,positive,Starbucks Via
+P1000-04,2019-12-22,5,0.626797,positive,what does it taste so good?
+P1000-04,2019-12-09,5,0.472218,positive,Heaven for decaf drinkers!
+P1000-04,2019-10-15,1,-0.580820,negative,Disappointed
+P1000-04,2019-07-08,4,0.591141,positive,best instant decaf
+P1000-04,2019-12-30,5,0.583125,positive,I love that Amazon ships directly to soldiers overseas!
+P1000-04,2019-07-06,2,0.506321,positive,About to expire
+P1000-04,2019-10-04,5,0.756765,positive,Only coffee I drink
+P1000-04,2019-09-14,5,0.576733,positive,Awesome price!!!!!!!!!
+P1000-04,2019-10-08,5,0.437545,positive,Much better price than in the stores
+P1000-04,2019-09-07,4,0.593724,positive,"Surprisingly Fresh, Rich Coffee Taste for Instant, but Pricey"
+P1000-04,2019-12-06,5,0.914846,positive,A Soldier's BEST FRIEND!
+P1000-04,2019-12-01,5,0.589587,positive,EXCELLENT VALUE
+P1000-04,2019-07-21,5,0.923624,positive,Instant Coffee? No ... Instant Starbucks!!!
+P1000-04,2019-10-20,5,0.782332,positive,Quick Cup
+P1000-04,2019-08-22,4,-0.445069,negative,Fair Substitute for no local Starbucks
+P1000-04,2019-07-07,2,-0.445602,negative,Really bad packaging. Really good marketing
+P1000-04,2019-10-06,5,0.817682,positive,I now have a starbucks in my kitchen...
+P1000-04,2019-10-28,4,0.319781,positive,"Nice Idea, good flavor, a little bitter"
+P1000-04,2019-07-02,5,0.976626,positive,Via Colombian Coffee
+P1000-04,2019-10-04,2,0.764455,positive,Love the product...shipping a problem
+P1000-04,2019-10-29,4,0.977414,positive,Ordering another box.
+P1000-04,2019-10-22,5,0.504816,positive,starbucks italian roast
+P1000-04,2019-08-18,5,0.464132,positive,coffee lovers must have
+P1000-04,2019-07-10,2,0.294627,positive,Almost expired
+P1000-04,2019-12-14,5,0.746971,positive,9 months before best before date.
+P1000-04,2019-07-19,5,0.921379,positive,Best instant around
+P1000-04,2019-11-20,5,0.916213,positive,greatest instant coffee ever
+P1000-04,2019-10-24,5,0.627352,positive,Starbucks via
+P1000-04,2019-08-25,4,0.344974,positive,As good as instant coffee gets!
+P1000-04,2019-09-10,5,0.775419,positive,Great for that extra cup of coffee !
+P1000-04,2019-07-25,5,0.971899,positive,good
+P1000-04,2019-10-01,5,0.889688,positive,love starbucks via
+P1000-04,2019-08-02,3,0.776009,positive,Starbucks by mail
+P1000-04,2019-08-02,5,0.998092,positive,like fresh brewed
+P1000-04,2019-09-18,5,0.977248,positive,Word up
+P1000-04,2019-08-12,5,0.979601,positive,exellent value
+P1000-04,2019-08-09,5,0.412369,positive,SEVEN Reasons to buy these
+P1000-04,2019-11-10,5,0.458043,positive,Dec 2010 gift / exp date October 2011
+P1000-04,2019-10-24,3,-0.466404,negative,Not as good.
+P1000-04,2019-08-29,3,0.349538,positive,Quick and tasty alternative
+P1000-04,2019-10-27,5,0.463238,positive,Wonderful deal!!!
+P1000-04,2019-09-09,5,0.675335,positive,Good value (NOT almost expired)
+P1000-04,2019-12-17,5,0.702087,positive,"Quick easy, no mess coffee"
+P1000-04,2019-12-25,5,0.890414,positive,Great instant coffee
+P1000-04,2019-12-05,5,0.986842,positive,Can't believe it's instant!
+P1000-04,2019-09-23,5,0.823046,positive,Great coffee in a pinch
+P1000-04,2019-07-11,5,0.749149,positive,Tasty and quick
+P1000-04,2019-12-29,4,0.746067,positive,The best instant coffee out there
+P1000-04,2019-09-19,5,0.463755,positive,Perfect cup of bold instant coffee
+P1000-04,2019-11-06,5,0.380031,positive,Easy for early morning routine
+P1000-04,2019-10-09,5,0.375832,positive,Almost as good as brewed!!
+P1000-04,2019-08-17,5,0.594588,positive,"Convenient, affordable, and delicious"
+P1000-04,2019-10-26,5,0.774633,positive,My favorite - Decaf on the go!!
+P1000-04,2019-08-17,5,0.627523,positive,This is the choice for taste and price
+P1000-04,2019-11-09,5,0.713320,positive,Love this!
+P1000-04,2019-08-13,5,0.689203,positive,Excellent!
+P1000-04,2019-10-21,5,0.544603,positive,The best instant you can get
+P1000-04,2019-08-07,3,-0.895279,negative,"Nothing good, nothing bad"
+P1000-04,2019-11-14,5,-0.407097,negative,Pretty good instant coffee.  I'm impressed.
+P1000-04,2019-12-23,5,0.521072,positive,"Awesome taste, portability and convenience.  Cheaper than buying coffee at Starbuck's."
+P1000-04,2019-09-28,5,0.998733,positive,Fabulous!
+P1000-04,2019-11-08,4,0.703756,positive,"Good, but not the real thing."
+P1000-04,2019-08-06,5,0.680235,positive,Coffee Snob
+P1000-04,2019-11-04,4,0.501471,positive,SHAME ON AMAZON
+P1000-04,2019-08-22,5,0.655673,positive,Tastes Like Real Coffee - Really Good Coffee
+P1000-04,2019-10-24,3,0.524237,positive,Good But Pricey
+P1000-04,2019-08-05,3,0.306080,positive,"Yum, but packet difficult to use"
+P1000-04,2019-11-28,2,-0.556436,negative,GOOD COFFEE-LOUSY PACKAGING
+P1000-04,2019-07-15,5,-0.390696,negative,"Expiration dates - Seriously, ignore them."
+P1000-04,2019-07-12,5,0.803161,positive,The perfect compromise: Drinkable instant coffee
+P1000-04,2019-10-21,5,0.692231,positive,Great instant coffee
+P1000-04,2019-12-23,5,0.484056,positive,Great Coffee
+P1000-04,2019-08-20,5,0.253046,positive,Ok to use 6 months after expiration
+P1000-04,2019-09-18,5,0.602288,positive,Mixes well even in cold liquids
+P1000-04,2019-12-01,5,0.773358,positive,Great!
+P1000-04,2019-07-08,5,0.895260,positive,Love this stuff
+P1000-02,2019-08-06,5,0.788423,positive,Love this product
+P1000-02,2019-08-16,5,0.737106,positive,The Perfect Treat!
+P1000-02,2019-09-23,5,0.945757,positive,LOVE!!!
+P1000-02,2019-07-08,1,-0.698443,negative,Grove Square Cappuchino
+P1000-02,2019-11-19,1,-0.795256,negative,total crap
+P1000-02,2019-07-29,1,-0.845459,negative,Burnt tasting garbage
+P1000-02,2019-09-10,5,0.622156,positive,Really deserves each star!
+P1000-02,2019-11-17,1,-0.409630,negative,"Not good, couldn't finish my cup"
+P1000-02,2019-11-22,1,-0.616020,negative,"If you are health conscious, skip this product"
+P1000-02,2019-08-04,5,0.990496,positive,Love these!
+P1000-02,2019-11-21,5,0.664018,positive,Great deal
+P1000-02,2019-08-15,1,-0.733802,negative,Disgusting!
+P1000-02,2019-11-28,1,0.381853,positive,BLECK!!!
+P1000-02,2019-07-16,1,-0.631573,negative,Partially Hydroginated crap
+P1000-02,2019-11-06,5,-0.290453,negative,Mini Mart Cappuccino
+P1000-02,2019-12-20,5,0.790515,positive,Love it - give it a try
+P1000-02,2019-12-26,5,0.646580,positive,Best Deal Around
+P1000-02,2019-10-03,1,0.793411,positive,Instant Coffee
+P1000-02,2019-11-15,1,-0.355492,negative,Nasty fake sweetener aftertaste
+P1000-02,2019-10-19,1,-0.938985,negative,Hope you like milk and sugar and no coffee
+P1000-02,2019-08-03,5,0.575516,positive,Exactly what I was looking for
+P1000-02,2019-09-05,5,0.965697,positive,Excellent.
+P1000-02,2019-12-11,4,0.478338,positive,"Good cup of ""fake"" cappuccino, just know what you're buying"
+P1000-02,2019-11-07,1,-0.305980,negative,cappu-oh no! too bad i can't return it.
+P1000-02,2019-07-31,5,0.998543,positive,Excellent deal
+P1000-02,2019-12-27,1,-0.888748,negative,way to sweet..
+P1000-02,2019-09-24,5,0.996340,positive,YUMMY!
+P1000-02,2019-12-12,1,0.703584,positive,Very cheap and flat taste...
+P1000-02,2019-07-18,2,-0.694126,negative,Not as expected
+P1000-02,2019-10-05,5,0.710053,positive,excellent
+P1000-02,2019-11-03,5,0.999738,positive,Tasty
+P1000-02,2019-09-20,1,0.970631,positive,Not Coffee of Cappuccino
+P1000-02,2019-11-30,5,0.999026,positive,AWESOME Cappuccino!
+P1000-02,2019-12-21,5,0.954511,positive,Awesome Flavor!
+P1000-02,2019-10-11,1,-0.893079,negative,Ew.
+P1000-02,2019-07-13,5,0.808938,positive,My new favorite for a cocoa-type drink
+P1000-02,2019-08-30,5,0.782362,positive,Exactly what I wanted!
+P1000-02,2019-10-01,1,-0.810953,negative,Disgusting
+P1000-02,2019-07-23,1,-0.967470,negative,Nasty!
+P1000-02,2019-10-25,1,-0.673949,negative,"Awfull, Awfull, Awfull"
+P1000-02,2019-09-18,1,-0.406741,negative,Coffee was old and in a big clump
+P1000-02,2019-09-18,1,-0.993532,negative,HORRIBLE HORRIBLE PRODUCT - YUCK!!!!
+P1000-02,2019-07-15,4,0.879306,positive,Quite Yummy!
+P1000-02,2019-08-15,1,0.319441,positive,More like dessert than coffee
+P1000-02,2019-09-14,5,0.983388,positive,Great Taste
+P1000-02,2019-09-20,5,0.996596,positive,Yum!
+P1000-02,2019-12-19,5,0.998036,positive,k cups
+P1000-02,2019-09-07,5,-0.432009,negative,great cappuccino
+P1000-02,2019-10-12,1,0.000000,neutral,Ingredients
+P1000-02,2019-08-27,4,0.560165,positive,Yummy and simple
+P1000-02,2019-11-20,2,-0.695705,negative,Disappointed
+P1000-02,2019-12-29,1,-0.452075,negative,Wish I had read the reviews
+P1000-02,2019-11-08,5,0.998333,positive,Cappuccino kcups
+P1000-02,2019-08-17,1,-0.989465,negative,Unhappy
+P1000-02,2019-09-09,1,-0.920178,negative,Too Sweet
+P1000-02,2019-08-31,5,0.998260,positive,delicious!
+P1000-02,2019-08-16,5,0.758425,positive,Really good for what it is
+P1000-02,2019-12-24,5,0.600421,positive,This is so much cheaper then getting my cappuccino from the gas station in the mornings!
+P1000-02,2019-12-08,5,0.812039,positive,This is delicious!
+P1000-02,2019-08-07,1,-0.456617,negative,"Horrible, Instant coffee, Hydrogenated oil inside, health hazard!!!"
+P1000-02,2019-11-26,5,0.999642,positive,Great Coffee and Great Price
+P1000-02,2019-11-13,4,0.664452,positive,Good Product for the Money
+P1000-02,2019-12-28,2,0.877106,positive,"Vey, verry sweet"
+P1000-02,2019-10-07,2,-0.656304,negative,MILD and Sweet
+P1000-02,2019-08-30,5,0.496221,positive,Awesome product!
+P1000-02,2019-08-27,1,-0.410449,negative,WASTE OF A K-CUP
+P1000-02,2019-10-16,4,0.894234,positive,French Vanilla Cappuccino
+P1000-02,2019-09-13,1,-0.542531,negative,Low Quality. High Calorie and Fat.
+P1000-02,2019-07-15,5,0.601898,positive,Great Cappuccino
+P1000-02,2019-09-30,5,0.997784,positive,So yummy!!
+P1000-02,2019-09-11,5,0.969245,positive,Great Taste
+P1000-02,2019-11-24,5,0.989950,positive,I'm addicted!!!
+P1000-02,2019-09-02,1,-0.816106,negative,lame
+P1000-02,2019-08-14,1,-0.327594,negative,very weak!
+P1000-02,2019-10-24,5,-0.410250,negative,Coffee taste
+P1000-02,2019-08-24,5,0.710266,positive,Refreshing for the Afternoon Blahs
+P1000-02,2019-10-17,5,0.544236,positive,Comfort food
+P1000-02,2019-08-22,1,-0.638510,negative,Read the other reviews and *Stay Away*
+P1000-02,2019-07-02,5,0.854323,positive,gray1
+P1000-02,2019-08-23,5,0.963461,positive,Grove square cappuccino
+P1000-02,2019-10-05,1,-0.598387,negative,Horrible!!!  Just Horrible!!!
+P1000-02,2019-07-13,1,0.473891,positive,Non Sequitur - Instant coffee from K-Cup Brewer
+P1000-02,2019-11-28,5,0.524712,positive,Great taste!
+P1000-02,2019-10-07,5,0.994416,positive,K-cups
+P1000-02,2019-12-14,2,0.478783,positive,Convenience Store Cappuccino
+P1000-02,2019-09-29,2,0.448238,positive,Weird aftertaste...
+P1000-02,2019-09-02,1,0.299393,positive,GAS STATION COFFEE!
+P1000-02,2019-11-28,5,0.829936,positive,"I love it, stock up for the winter!!"
+P1000-02,2019-08-13,5,-0.547065,negative,Like Christmas Morning in a mug!
+P1000-02,2019-07-18,5,0.567070,positive,Really Good Coffee Drink
+P1000-02,2019-07-05,4,0.321974,positive,Nice treat
+P1000-02,2019-07-20,1,0.842384,positive,Don't buy it!
+P1000-02,2019-11-05,2,-0.376088,negative,Just instant coffee
+P1000-02,2019-11-24,1,-0.413729,negative,Way too sweet
+P1000-02,2019-09-23,5,0.853105,positive,I Love Love Love this cappuccino
+P1000-02,2019-10-12,4,0.853537,positive,Pretty damn good....but I LIKE the Wawa/Convenience store stuff!
+P1000-02,2019-07-19,4,0.588008,positive,flavor
+P1000-02,2019-10-17,5,0.892705,positive,It was exactly what I expected.
+P1000-02,2019-07-08,5,0.808751,positive,Very Happy With This Item!
+P1000-02,2019-09-30,1,-0.973208,negative,Extremely Poor Quality - SUX
+P1000-02,2019-11-11,3,0.348851,positive,good until the aftertaste
+P1000-02,2019-10-09,1,-0.643061,negative,Instant coffee in a k-cup
+P1000-02,2019-07-28,1,-0.408838,negative,WAKE UP PEOPLE  You are being scammed !
+P1000-02,2019-08-04,5,0.899783,positive,Taste sooooo Goood!!
+P1000-02,2019-10-20,5,0.873097,positive,YUMMY is an understatement
+P1000-02,2019-08-20,1,-0.763810,negative,Not sure what to do with remain 52 k-cups :(
+P1000-02,2019-12-09,1,-0.393028,negative,Hello Diabetes
+P1000-02,2019-12-27,5,0.999612,positive,"Grove Square Cappuccino Cups, French VanillaI"
+P1000-02,2019-07-31,5,0.822361,positive,Love It!!!
+P1000-02,2019-11-04,4,0.337938,positive,Good item
+P1000-02,2019-10-21,5,0.720774,positive,VERY Good!
+P1000-02,2019-10-13,1,-0.419251,negative,Angry
+P1000-02,2019-08-16,5,0.577445,positive,Yumm!!
+P1000-02,2019-08-29,3,0.256648,positive,Tastes Fine But it's Instant Coffee...
+P1000-02,2019-10-15,1,0.597237,positive,A K-Cup Really???????????
+P1000-02,2019-11-20,5,0.974621,positive,Great tasting
+P1000-02,2019-08-30,1,-0.837439,negative,Absolutely Vile
+P1000-02,2019-12-19,2,0.437327,positive,Disappointed. . .
+P1000-02,2019-07-26,5,0.988024,positive,The best Cappuccino
+P1000-02,2019-11-08,5,-0.960185,negative,I kinda like it
+P1000-02,2019-10-30,5,0.964629,positive,Delicious!
+P1000-02,2019-12-21,4,0.997791,positive,Great Cup
+P1000-02,2019-11-15,5,0.714029,positive,Awesome Beverage
+P1000-02,2019-10-10,1,-0.579066,negative,Just Gross
+P1000-02,2019-07-09,1,-0.444720,negative,Not even close to Cappuccino
+P1000-02,2019-09-03,2,0.622531,positive,Clogged up my Keurig
+P1000-02,2019-10-22,5,0.929080,positive,Piece of heaven
+P1000-02,2019-11-15,3,-0.394983,negative,Price Vs. Flavor
+P1000-02,2019-11-15,1,-0.461610,negative,Not worth it
+P1000-02,2019-07-14,5,0.540908,positive,I really like this!
+P1000-02,2019-10-26,5,0.990868,positive,Wonderful flavor fast shipping
+P1000-02,2019-08-27,1,-0.990075,negative,Hated it
+P1000-02,2019-08-11,2,-0.428885,negative,If you like coffee.. buy something else
+P1000-02,2019-08-08,1,0.556598,positive,Wow.... lots of saturated fat
+P1000-02,2019-11-20,5,0.707078,positive,"For 10 dollars, yes. otherwise, no"
+P1000-02,2019-08-17,5,0.742808,positive,Gas Station Cappuccino
+P1000-02,2019-12-04,5,0.998632,positive,Very Good Coffee
+P1000-02,2019-08-12,5,0.745380,positive,Great Flavorl! Great Price!
+P1000-02,2019-11-02,5,0.401718,positive,Luv this coffee!!
+P1000-02,2019-07-16,5,0.946656,positive,"Great just be aware, it is instant not fresh brewed."
+P1000-02,2019-12-19,5,0.999953,positive,The Best!!
+P1000-02,2019-08-15,5,0.999008,positive,great drink
+P1000-02,2019-07-05,5,0.781793,positive,Don't waste time & money in the drive thru.
+P1000-02,2019-12-04,2,0.400573,positive,Bad aftertaste - and review the ingredients!  24% of daily saturated fat per serving!
+P1000-02,2019-07-11,1,0.690694,positive,Real coffee???
+P1000-02,2019-08-09,5,0.821637,positive,Great Cappuccino
+P1000-02,2019-07-02,1,-0.946197,negative,HORRIBLE....very disappointed.
+P1000-02,2019-09-28,3,-0.860491,negative,Taste not excellent
+P1000-02,2019-09-09,5,0.991566,positive,My evening treat
+P1000-02,2019-10-07,4,0.390321,positive,"BETTER THAN ""5 HOUR ENERGY"" AND GREAT FOR A HANGOVER"
+P1000-02,2019-11-09,5,0.378484,positive,Good for what it is
+P1000-02,2019-07-18,5,0.806211,positive,"Great taste, a smooth and sweet coffee"
+P1000-02,2019-08-12,4,-0.986915,negative,Cappacino
+P1000-02,2019-08-28,5,0.869407,positive,Delicious!
+P1000-02,2019-10-26,1,-0.709077,negative,Used to love it.
+P1000-02,2019-07-13,1,-0.734813,negative,Not Strong Enough
+P1000-02,2019-10-09,4,0.512613,positive,"Not quite coffee, but delicious!"
+P1000-02,2019-10-25,5,0.853759,positive,amazing on ice
+P1000-02,2019-08-15,2,0.559851,positive,Bootleg Product?
+P1000-02,2019-10-03,1,-0.699005,negative,Gas station coffee dispenser garbage
+P1000-02,2019-10-14,1,-0.880226,negative,Pretty Bad
+P1000-02,2019-10-07,5,0.985873,positive,Hazelnut Exquiste
+P1000-02,2019-10-28,5,0.793088,positive,Delicious Cappucino Hot or Cold!
+P1000-02,2019-11-14,5,0.681827,positive,I love these!
+P1000-02,2019-08-31,2,0.601840,positive,Big Dissapointment
+P1000-02,2019-10-29,1,-0.900387,negative,Bad Stuff
+P1000-02,2019-07-12,2,0.620389,positive,Excellent products
+P1000-02,2019-10-05,5,0.837733,positive,YUM!
+P1000-02,2019-11-20,5,0.590175,positive,My wife loves it.
+P1000-02,2019-08-27,5,0.652178,positive,"Instant Coffee, that's delicious"
+P1000-02,2019-10-03,5,0.999211,positive,Favorite k cup
+P1000-02,2019-12-19,1,-0.840790,negative,Disgusting.
+P1000-02,2019-12-26,5,0.992265,positive,delicious
+P1000-02,2019-12-26,3,0.441724,positive,Ariel
+P1000-02,2019-12-28,4,0.819205,positive,Pretty good
+P1000-02,2019-12-11,1,0.969375,positive,Instant coffee
+P1000-02,2019-07-21,5,0.982272,positive,Thank You Gas Station Reviewer
+P1000-02,2019-07-19,1,-0.970938,negative,blah
+P1000-02,2019-12-24,1,-0.982984,negative,Yuck
+P1000-02,2019-10-12,5,0.694327,positive,New morning pleasure
+P1000-02,2019-07-15,5,0.629499,positive,Delicious!
+P1000-02,2019-10-25,5,0.829705,positive,LOVE this Kcup coffee
+P1000-02,2019-07-29,5,0.811068,positive,Yum!
+P1000-02,2019-12-03,1,-0.466099,negative,Plastic taste
+P1000-02,2019-11-04,5,0.754466,positive,Great product!
+P1000-02,2019-09-25,5,0.970120,positive,awesome
+P1000-02,2019-11-13,1,-0.964022,negative,Could barely get through 2 sips..
+P1000-02,2019-08-09,5,0.529283,positive,k-cups
+P1000-02,2019-12-22,5,0.900869,positive,Sweet and creamy
+P1000-02,2019-07-03,5,0.979364,positive,My Favorite
+P1000-02,2019-08-24,3,0.789669,positive,Too sweet
+P1000-02,2019-08-14,2,0.323326,positive,Tastes awful due to sugar-free sweetener
+P1000-02,2019-09-07,4,0.668066,positive,Pleasant Surprise!!
+P1000-02,2019-09-06,5,0.633279,positive,SPIKE this with some Irish cream liqueur
+P1000-02,2019-10-08,1,-0.982371,negative,Cappuccino cups
+P1000-02,2019-12-02,5,0.990253,positive,Great Taste...
+P1000-02,2019-10-01,5,0.334948,positive,Great tasting and good price
+P1000-02,2019-07-02,1,-0.735315,negative,Horrible
+P1000-02,2019-12-02,1,-0.548737,negative,Artificial sweetener???
+P1000-02,2019-08-08,5,0.995345,positive,Grove Square Cappuccino Cups
+P1000-02,2019-09-23,5,0.970327,positive,K-cup coffee
+P1000-02,2019-08-25,5,0.767814,positive,Heavenly
+P1000-02,2019-08-31,5,-0.416346,negative,Excellent product!
+P1000-02,2019-08-09,1,-0.497874,negative,First ingredient is trans fat ( partially hydrogenated oil )
+P1000-02,2019-10-28,1,0.728317,positive,DO NOT BUY!!!
+P1000-02,2019-09-14,4,0.317511,positive,Bit of an aftertaste
+P1000-02,2019-11-05,5,0.822519,positive,Delsih and Yummy
+P1000-02,2019-09-09,1,0.511484,positive,"Vending Machine Coffee, dont buy it."
+P1000-02,2019-07-31,4,0.660958,positive,Excellent alternative
+P1000-02,2019-07-08,1,-0.445943,negative,There's a reason why these are so cheap
+P1000-02,2019-07-19,1,0.882795,positive,Don't buy it!
+P1000-02,2019-08-19,1,-0.330821,negative,YUCK! :(
+P1000-02,2019-11-21,1,-0.507742,negative,INSTANT COFFEE!
+P1000-02,2019-10-17,5,0.893490,positive,Gas Station Coffee? Yep.
+P1000-02,2019-10-24,1,0.338734,positive,Grove Square K-cups - DO NOT BUY!
+P1000-02,2019-12-08,1,0.925064,positive,What a disappointment
+P1000-02,2019-07-31,5,0.998851,positive,great cappuccino
+P1000-02,2019-09-20,5,0.999282,positive,Great Product
+P1000-02,2019-12-29,5,0.999310,positive,K-Cups
+P1000-02,2019-10-22,5,0.855142,positive,Pretty Good
+P1000-02,2019-12-01,5,0.940498,positive,Love this coffee!
+P1000-02,2019-08-14,1,-0.782571,negative,Hydrogenated vegetable oils?  No thanks!
+P1000-02,2019-07-29,5,0.457244,positive,Something we agree on!
+P1000-02,2019-07-09,5,0.968800,positive,"Great, but..."
+P1000-02,2019-07-12,5,-0.346200,negative,Delicious
+P1000-02,2019-07-06,1,-0.825796,negative,Beware of artificial sweetener!
+P1000-02,2019-09-25,1,0.557685,positive,Way to sweet
+P1000-02,2019-12-16,1,-0.767332,negative,Not what you think--taste wise
+P1000-02,2019-07-29,5,0.909608,positive,didnt use yet
+P1000-02,2019-09-11,2,0.357102,positive,Not pleased with these K-cups
+P1000-02,2019-12-03,3,0.506041,positive,Good for K-Cup Instant Gratification
+P1000-02,2019-11-02,5,0.769744,positive,A++ Service
+P1000-02,2019-10-25,5,0.971546,positive,French Vanilla - heaven!
+P1000-02,2019-09-26,1,-0.898998,negative,Awful
+P1000-02,2019-12-04,1,0.949376,positive,instant coffee powder!!!!!!
+P1000-02,2019-10-25,1,-0.676672,negative,horrid ingredients.
+P1000-02,2019-11-17,5,0.998482,positive,Caramel Cappuccino K-Cups
+P1000-02,2019-12-03,3,-0.898515,negative,not strong enough
+P1000-02,2019-10-05,1,-0.999633,negative,No Taste
+P1000-02,2019-07-01,4,0.574834,positive,I like it!
+P1000-03,2019-11-30,5,0.339327,positive,Pretty Good
+P1000-03,2019-09-08,5,-0.300762,negative,Brooklyn Corner Donut Shop K-cups are delishious!
+P1000-03,2019-12-08,3,0.569366,positive,grind too fine?
+P1000-03,2019-11-18,5,0.683984,positive,well done brookly bean roastery
+P1000-03,2019-07-04,5,0.635523,positive,Yummy
+P1000-03,2019-11-25,2,-0.497481,negative,Poor packaging causing K-Cup leakage
+P1000-03,2019-07-06,4,-0.469305,negative,Revised again -- my wife loves it
+P1000-03,2019-12-11,5,0.922700,positive,Loved the breakfast blend
+P1000-03,2019-09-05,4,0.948096,positive,Great Dark Coffee
+P1000-03,2019-07-06,4,0.586126,positive,Very good
+P1000-03,2019-08-16,2,-0.870515,negative,Disappointed
+P1000-03,2019-11-13,3,0.290775,positive,Great Tasting Coffee
+P1000-03,2019-10-27,2,-0.827109,negative,Too mild and there is an issue with these cups
+P1000-03,2019-08-17,1,-0.484636,negative,issue with actual k-cup
+P1000-03,2019-10-16,2,0.292553,positive,Does not work properly in machine.  Dispenses grounds
+P1000-03,2019-10-03,5,0.641157,positive,Good coffee
+P1000-03,2019-11-14,1,-0.434064,negative,Very poorly made
+P1000-03,2019-07-02,2,-0.651611,negative,Taste ok...low quality packaging.
+P1000-03,2019-09-05,1,-0.818577,negative,Packaging terrible. Grounds in Coffee
+P1000-03,2019-07-20,1,-0.719993,negative,will never buy this again
+P1000-03,2019-09-05,1,-0.408144,negative,Second Worst Coffee I Ever Tasted
+P1000-03,2019-12-07,1,-0.625763,negative,Doesn't Work Well in Keurig Brewer
+P1000-03,2019-08-26,3,0.280124,positive,"Good, but not Dark Magic"
+P1000-03,2019-10-21,3,-0.492800,negative,No quality issues but taste is sub-par.
+P1000-03,2019-10-21,1,-0.439214,negative,"Flavor Good, Quality Control very poor"
+P1000-03,2019-09-05,1,-0.285771,negative,no filters!
+P1000-03,2019-12-18,1,-0.554154,negative,Messy K-cups
+P1000-03,2019-11-11,3,0.424452,positive,Great coffee: poor packaging
+P1000-03,2019-11-11,4,0.886074,positive,brooklyn decaf
+P1000-03,2019-07-03,5,0.975441,positive,Great Coffee. Higly recommended
+P1000-03,2019-10-15,4,0.941135,positive,"Great coffee, great price!"
+P1000-03,2019-09-29,1,-0.355199,negative,7 out of 36 cups not sealed.
+P1000-03,2019-12-07,4,0.661948,positive,The negative reviews made me want to try  it
+P1000-03,2019-11-22,5,0.999241,positive,Brookly Bean
+P1000-03,2019-08-11,1,0.302398,positive,French Roast this is not
+P1000-03,2019-08-04,2,-0.363208,negative,Hope you have a tea strainer
+P1000-03,2019-09-11,5,0.961559,positive,Brooklyn Beans meets with approval of Peet's coffee snob
+P1000-03,2019-11-22,1,-0.472018,negative,Don't purchase this.
+P1000-03,2019-12-08,4,0.820624,positive,free sample
+P1000-03,2019-12-18,5,0.996321,positive,I just love it
+P1000-03,2019-10-03,1,-0.698255,negative,Brooklyn Decaf
+P1000-03,2019-10-01,5,0.754301,positive,Your taste buds will thank you!
+P1000-03,2019-10-16,4,0.351176,positive,"I Wish I Could, I Wish I Might .....UPDATE 07/10/12"
+P1000-03,2019-10-24,5,0.649393,positive,Exactly as described!
+P1000-03,2019-08-27,2,-0.277872,negative,booklyn bean roastery
+P1000-03,2019-12-09,1,-0.570230,negative,This is an excellent cup of joe.
+P1000-03,2019-11-10,5,0.793706,positive,great product and happy to support it
+P1000-03,2019-08-03,4,-0.547826,negative,A Little Weak
+P1000-03,2019-10-27,2,-0.591596,negative,K-Cups of poor construction
+P1000-03,2019-12-10,1,-0.999020,negative,"Horrible, just Horrible"
+P1000-03,2019-12-22,3,-0.448087,negative,Spectacular Brewing Failures but much less frequent (caffeinated only)
+P1000-03,2019-11-19,5,0.997442,positive,Tastes Amazing! Great customer service as well.
+P1000-03,2019-12-24,5,0.697779,positive,Delicious Decaf
+P1000-03,2019-09-04,5,0.952218,positive,Great
+P1000-03,2019-10-15,1,0.350054,positive,Just pour it down the drain
+P1000-03,2019-08-28,5,0.999753,positive,Great taste!
+P1000-03,2019-12-16,1,0.499757,positive,K-Cups That Don't Work
+P1000-03,2019-11-19,5,-0.310901,negative,great customer service
+P1000-03,2019-09-15,4,-0.607986,negative,Brooklyn Decaf Cups spread grounds all over
+P1000-03,2019-07-17,1,0.286884,positive,Forgetabout it is right! Save your money!
+P1000-03,2019-09-15,4,0.814292,positive,New favoriate
+P1000-03,2019-08-28,1,-0.999526,negative,Spend the $20 somewhere else
+P1000-03,2019-08-19,1,-0.323799,negative,Defective K-cup
+P1000-03,2019-10-28,5,0.491267,positive,Looks good - tastes good but doesn't brew
+P1000-03,2019-12-19,1,-0.623358,negative,"Tastes Good, just brewing issues"
+P1000-03,2019-11-22,3,0.289900,positive,"Good Coffee, Bad K-cup"
+P1000-03,2019-12-21,4,0.587768,positive,Yummy
+P1000-03,2019-11-10,5,0.963003,positive,Great taste
+P1000-03,2019-09-18,1,-0.743047,negative,Can't even review taste
+P1000-03,2019-10-22,1,-0.993035,negative,TERRIBLE! they never work right!
+P1000-03,2019-12-04,5,0.979949,positive,BEST COFFEE for sure
+P1000-03,2019-12-28,1,-0.921023,negative,NASTY
+P1000-03,2019-11-10,5,0.943774,positive,ummm... donuts...
+P1000-03,2019-12-21,3,-0.490966,negative,Very cheap & No taste-*UPDATED REVIEW*
+P1000-03,2019-07-14,1,-0.466821,negative,Poor KCup manufacturing and OK coffee-- UPDATE
+P1000-03,2019-09-26,1,-0.504722,negative,Thar She Blows !!
+P1000-03,2019-07-03,1,-0.380995,negative,Cup Failure
+P1000-03,2019-11-29,1,-0.836165,negative,Ruined my keurig
+P1000-03,2019-09-06,1,-0.994628,negative,Dislike
+P1000-03,2019-08-10,5,0.769258,positive,"Better, Smoother Than Emeril's Big Easy Bold"
+P1000-03,2019-07-19,5,0.643533,positive,Pretty Darn Good.. smooth
+P1000-03,2019-12-26,3,0.533236,positive,Coffee good...PODS BAD!!! not all pods just these pods
+P1000-03,2019-08-24,1,-0.825591,negative,Clogs Every Single Time
+P1000-03,2019-10-14,1,-0.643740,negative,Poor packaging on These K Cups
+P1000-03,2019-12-22,1,-0.341781,negative,Inconsistent K-Cup quality - mediocre coffee
+P1000-03,2019-10-15,4,0.938660,positive,Good value
+P1000-03,2019-07-18,4,-0.434147,negative,No Exploding Pods
+P1000-03,2019-11-30,4,0.272734,positive,"Cheap, but decent"
+P1000-03,2019-09-29,3,0.533398,positive,UPDATE Great Customer Service made me a Customer again
+P1000-03,2019-10-06,4,0.772678,positive,Delicious coffee!
+P1000-03,2019-11-19,2,0.287509,positive,I didn't like the French Roast
+P1000-03,2019-12-30,1,-0.955046,negative,Kills your Keurig
+P1000-03,2019-11-10,5,-0.439283,negative,Poor Quality...at first
+P1000-03,2019-07-11,4,0.724463,positive,cheaper but still taste good
+P1000-03,2019-08-12,1,-0.892081,negative,wont work in keurig coffee machine
+P1000-03,2019-08-02,3,0.451583,positive,"I like the coffee, but the k-cups are problematic"
+P1000-03,2019-08-08,5,0.826342,positive,Excellent taste and a fun brand too
+P1000-03,2019-11-01,4,0.969925,positive,tasty
+P1000-03,2019-09-29,4,0.401557,positive,Worth another try!  Update to previous reviews.
+P1000-03,2019-08-22,5,0.851104,positive,Brooklyn Bean Roastery... benissimo
+P1000-03,2019-09-17,4,0.986445,positive,Tastes Great
+P1000-03,2019-08-17,1,-0.407968,negative,Updated: Why These F-Cups Will Never Work Correctly
+P1000-03,2019-07-14,1,-0.985407,negative,"Poor pod manufacturing, weak coffee"
+P1000-03,2019-09-20,1,-0.445283,negative,Great Coffee - Bad Packaging
+P1000-03,2019-11-29,5,0.639531,positive,Brooklyn Bean Roastery Updated Review
+P1000-03,2019-09-21,4,0.968849,positive,Brooklyn Roasters Handled My situation very well!
+P1000-03,2019-11-26,1,-0.886667,negative,"stay away -  grounds in my cup,  > 50% failure of filter"
+P1000-03,2019-08-22,5,0.992404,positive,Forgeddaboutit!!
+P1000-03,2019-10-06,5,0.884071,positive,unbelievably good!
+P1000-03,2019-08-20,5,0.604747,positive,Brooklyn Beans K-Cup
+P1000-03,2019-12-27,4,0.999380,positive,Good coffee  great customer service
+P1000-03,2019-10-08,4,-0.661068,negative,Very good coffee.
+P1000-03,2019-08-10,1,0.310031,positive,"Cheaply made, coffee just ok"
+P1000-03,2019-10-01,5,-0.277007,negative,UPDATED Review Problem resolved
+P1000-03,2019-08-26,4,0.367364,positive,Happy with purchase
+P1000-03,2019-08-22,5,0.682577,positive,Brooklyn Bean Roastery Coffee Cyclone
+P1000-03,2019-10-10,5,0.911668,positive,WOW - Really good coffee!!
+P1000-03,2019-07-30,4,0.443139,positive,Cyclone certainly bold...Fuggetabout it Bold-less
+P1000-03,2019-11-12,5,-0.356867,negative,Very smooth without being too weak
+P1000-03,2019-10-19,2,-0.909004,negative,Weak coffee
+P1000-03,2019-12-14,5,0.959640,positive,close as a k-cup will get to a Starbucks
+P1000-03,2019-07-12,5,0.456671,positive,Brooklyn Bean Lover
+P1000-03,2019-11-17,3,-0.303830,negative,Like Going to Vegas
+P1000-03,2019-07-19,5,0.904692,positive,Wonderful coffee
+P1000-03,2019-12-25,1,-0.417223,negative,Nothing like Jet Fuel
+P1000-03,2019-07-28,2,0.265341,positive,Underwhelmed
+P1000-03,2019-09-07,5,0.926221,positive,Amazing cup of coffee!!
+P1000-03,2019-09-17,1,-0.307055,negative,Extra Bold?  NO
+P1000-03,2019-11-09,5,0.857729,positive,Love this brand!
+P1000-03,2019-10-27,1,-0.767471,negative,Kcups leaking and coffee tasted old
+P1000-03,2019-10-15,3,-0.701599,negative,Brooklyn Bridge K Cup problem
+P1000-03,2019-10-31,5,0.428075,positive,Great tasting coffee and Excellant customer Service! WOW!
+P1000-03,2019-12-26,1,-0.362502,negative,These K-cups suck!!!!
+P1000-03,2019-12-21,2,-0.418331,negative,Nice cup of decaf; defective k-cups
+P1000-03,2019-07-11,1,-0.929691,negative,brooklyn bridge k cups
+P1000-03,2019-11-14,5,0.740470,positive,AMAZING coffee!!
+P1000-03,2019-12-12,5,0.952054,positive,BEST OF THE BEST
+P1000-03,2019-08-10,5,0.777552,positive,bold and glorious
+P1000-03,2019-11-07,4,0.808864,positive,Fresh Brewed
+P1000-03,2019-10-17,5,0.538211,positive,Great for the Price
+P1000-03,2019-09-08,4,0.978927,positive,great coffee
+P1000-03,2019-10-01,4,-0.310285,negative,Improved their product...Amazon & Brookly Bean Roastery fair to customers:)
+P1000-03,2019-07-07,5,0.945976,positive,Amazingly good coffee
+P1000-03,2019-10-19,1,0.269409,positive,Defective K-cups ?
+P1000-03,2019-12-19,1,0.603935,positive,Not our cup of coffee
+P1000-03,2019-10-10,3,0.348773,positive,Weak and bland
+P1000-03,2019-09-20,1,-0.645604,negative,Gross!!!!!
+P1000-03,2019-10-30,3,0.511425,positive,I guess I am in the minority
+P1000-03,2019-07-14,1,-0.612774,negative,K Cups don't work right
+P1000-03,2019-10-14,1,0.482595,positive,If you like to drink coffee grinds
+P1000-03,2019-12-16,3,0.379004,positive,Grounds in my cup!
+P1000-03,2019-08-03,4,0.670767,positive,Great quality and price
+P1000-03,2019-08-14,5,0.584062,positive,Verified Purchaser of Cyclone Blend ~ By a Coffee Snob
+P1000-03,2019-11-21,5,0.409669,positive,"Nobody in Brooklyn says ""Fugeddaboudit"" --"
+P1000-03,2019-07-16,5,0.396567,positive,Great Mild Coffee along with some Brooklyn Hometown Pride!!
+P1000-03,2019-08-11,2,-0.544795,negative,Very poor taste for this dark roast
+P1000-03,2019-12-01,1,0.307870,positive,Not that bold...
+P1000-03,2019-10-03,1,-0.740427,negative,Kcups failed and many stale
+P1000-03,2019-09-23,1,0.542441,positive,Cheap K-CUP clogs my Keurig!
+P1000-03,2019-11-26,5,0.995806,positive,Delicious
+P1000-03,2019-11-05,3,-0.809189,negative,SO-SO
+P1000-03,2019-09-05,5,0.875932,positive,New favorite kcups!
+P1000-03,2019-11-26,5,-0.315991,negative,Good flavor
+P1000-03,2019-12-30,4,0.868792,positive,Bold & Strong
+P1000-03,2019-10-08,1,-0.481959,negative,"All these bad reviews aren't kidding, folks - quality control on these is terrible"
+P1000-03,2019-11-21,5,0.828188,positive,"Great flavor, Good quality"
+P1000-03,2019-11-14,1,-0.362907,negative,Awful Coffee
+P1000-03,2019-11-19,3,-0.755433,negative,Tolerable
+P1000-03,2019-07-18,2,-0.900852,negative,Way too mild!
+P1000-03,2019-11-15,5,0.421880,positive,Good Coffee - Great company
+P1000-03,2019-08-04,2,0.258337,positive,Something wrong with K cups
+P1000-03,2019-09-19,4,-0.412973,negative,Glad I bought before I read the reviews...
+P1000-03,2019-07-02,2,-0.742273,negative,Fuhgeddaboutit being good
+P1000-03,2019-08-06,2,-0.574479,negative,Very weak version of French Roast
+P1000-03,2019-12-30,1,-0.896804,negative,A mess
+P1000-03,2019-12-07,5,0.301604,positive,"Brooklyn Bean Roastery Coffee, Single Serve Cup for Keurig K-Cup Brewers, 36-Count"
+P1000-03,2019-09-12,3,-0.555871,negative,Marginal coffee and poor quality control
+P1000-03,2019-09-05,5,0.812267,positive,Great Bold Flavor
+P1000-03,2019-08-07,5,0.280380,positive,1st batch bad but customer service came through...
+P1000-03,2019-07-08,2,-0.652498,negative,I really wanted it to be goiod coffee.............
+P1000-03,2019-11-08,1,-0.605829,negative,very poor packaging
+P1000-03,2019-12-09,1,-0.770915,negative,Inferior product
+P1000-03,2019-07-19,1,0.673774,positive,Keurig machine clog
+P1000-03,2019-07-31,5,0.815046,positive,"Great Coffee, Great Price!"
+P1000-03,2019-10-31,5,0.803055,positive,Delicious Coffee!
+P1000-03,2019-12-06,4,0.719367,positive,Great tasting coffee with a few grounds.
+P1000-03,2019-10-06,5,0.743114,positive,Good value & good taste
+P1000-03,2019-11-16,5,0.766810,positive,Really clean flavor - delicious hot or cold.
+P1000-03,2019-08-01,5,0.758811,positive,Brooklyn Bean Breakfast Blend k-CUPS
