@@ -1,0 +1,34 @@
+{
+  "name": "cognos-analytics-using-unstructured-data",
+  "version": "1.0.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IBM/cognos-analytics-using-unstructured-data"
+  },
+  "scripts": {
+    "start": "node lib/generate-disco-data.js",
+    "bootstrap": "cp env.sample .env",
+    "lint": "eslint lib/.",
+    "lint:fix": "eslint lib/. --fix"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
+    "ibm-watson": "^5.4.0",
+    "ibm_db": "^2.6.4"
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
+  "devDependencies": {
+    "csvtojson": "^2.0.10",
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
