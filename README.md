@@ -12,6 +12,10 @@ In this code pattern, we will walk you through the process of creating sales, st
 2. User runs Cognos Analytics.
 3. Cognos Analytics is linked to the Db2 Warehouse instance. The data can then be used to build visualizations on Cognos Analytics dashboards.
 
+**Important**: Before proceeding, ensure that you have access to the latest release of Cognos Analytics. Click [here](https://www.ibm.com/products/cognos-analytics) to get product and pricing information, as well as access to a free trial version.
+
+>NOTE: If you ended up here without completing the first code pattern of the series then, Click [here](https://github.com/IBM/cognos-analytics-using-unstructured-data) to go back to the "Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard" code pattern.
+
 ## Steps
 
 1. [Create IBM Db2 Warehouse service on IBM Cloud](#1-create-ibm-db2-warehouse-service-on-ibm-cloud)
