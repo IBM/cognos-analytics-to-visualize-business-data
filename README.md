@@ -226,6 +226,12 @@ Just like the dashboard we created in the first section, now that all of your vi
 
 **Congratulations!** You should now know how to navigate your way through setting up and creating data modules and dashboards in Cognos Analytics. You should also understand how to integrate with multiple data sources using Watson Discovery and IBM Db2 Warehouse.
 
+# Next steps
+
+Congratulations on completing the Cognos Analytics series.
+
+Click [here](https://github.com/IBM/cognos-analytics-using-unstructured-data) to go back to the "Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard" code pattern.
+
 # License
 
 This code pattern is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
