@@ -1,32 +1,42 @@
 # Visualize customer insights with business data for product performance analysis
 
-To visualize existing business data and analyze the performcance of the products, companies needs and easy tool that can ingest huge amount of data from different sources like CSV files or a connection to data warehouses and create visulaization through different form of charts. These charts helps businesses analyze the performances of different products in the company and make actionable decisions to improve their performances. IBM Cognos Analytics, a business intelligence solution empowers users with AI-infused self-service capabilities that accelerate data preparation, analysis, and report creation. Cognos makes it easier than ever to visualize data and share actionable insights across your organization to foster more data-driven decisions. This code pattern shows how you can visualize business data in Cognos Analytics for product performance analysis.
+To visualize existing business data and analyze the performcance of the products, companies need an easy tool that can ingest huge amounts of data from different sources, like CSV files or a connection to data warehouses, and create visulaization through different types of charts. These charts help businesses analyze the performances of different products in the company so that they can make actionable decisions to improve performance. IBM Cognos Analytics, a business intelligence solution, empowers users with AI-infused self-service capabilities that accelerate data preparation, analysis, and report creation. Cognos Analytics makes it easier than ever to visualize data and share actionable insights across your organization to foster more data-driven decisions. This code pattern shows how you can visualize business data in Cognos Analytics for product performance analysis.
 
-In this code pattern, we will walk you through the process of creating sales, store and inventory data to support our coffee company products. The data will be uploaded into a Db2 Warehouse schema which will then be connected to Cognos Analytics. We will created additional Cognos Analytics dashboards to visualize the business data.
+This code pattern is part two of a series of Cognos Analytics code patterns. In the first code pattern "Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard", we introduce basic Cognos Analytics concepts on how to set up date modules, create dashboards, and navigating the Cognos Analytics UI. We introduce the concept of a coffee manufacturer gaining insights into public preception of their coffee flavors by creating visualizations that track customer ratings and sentiment for their brands over time.
+
+In this code pattern, we add to this case study by introducing business data, such as store information, sales data, and inventory levels. The data will be uploaded into a Db2 Warehouse schema which will then be connected to Cognos Analytics. We will then create dashboards to visualize the business data.
+
+>**Note**: If you have not yet completed part one of this series on Cognos Analytics, you are encouraged to do so before continuing. Click [here](https://github.com/IBM/cognos-analytics-using-unstructured-data) to go to the "Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard" code pattern.
 
 ![architecture-db2](doc/source/images/architecture-db2.png)
 
 ## Flow
 
 1. Product and business data is loaded into Db2 Warehouse tables.
-2. User runs Cognos Analytics.
-3. Cognos Analytics is linked to the Db2 Warehouse instance. The data can then be used to build visualizations on Cognos Analytics dashboards.
+1. User runs Cognos Analytics.
+1. Cognos Analytics is linked to the Db2 Warehouse instance. The data can then be used to build visualizations on Cognos Analytics dashboards.
+
+## Included components
+
+* [Cognos Analytics](https://www.ibm.com/products/cognos-analytics): A business intelligence solution that empowers users with AI-infused self-service capabilities that accelerate data preparation, analysis, and repot creation.
+* [IBM Db2 Warehouse](https://www.ibm.com/products/db2-warehouse): A client-managed, highly flexible operational data warehouse for private clouds and containerized deployments.
 
 **Important**: Before proceeding, ensure that you have access to the latest release of Cognos Analytics. Click [here](https://www.ibm.com/products/cognos-analytics) to get product and pricing information, as well as access to a free trial version.
 
->NOTE: If you ended up here without completing the first code pattern of the series then, Click [here](https://github.com/IBM/cognos-analytics-using-unstructured-data) to go back to the "Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard" code pattern.
+## Featured technologies
+
+* [Node.js](https://nodejs.org/): An open-source JavaScript run-time environment for executing server-side JavaScript code.
 
 ## Steps
 
 1. [Create IBM Db2 Warehouse service on IBM Cloud](#1-create-ibm-db2-warehouse-service-on-ibm-cloud)
 1. [Add Db2 service credentials to environment file](#2-add-db2-service-credentials-to-environment-file)
-1. [Run scripts to load data into the database](#3-run-scripts-to-load-data-into-the-database)
+1. [Run the script to load data into the database](#3-run-the-script-to-load-data-into-the-database)
 1. [Create database connection in Cognos Analytics](#4-create-database-connection-in-cognos-analytics)
 1. [Load metadata from the connected database](#5-load-metadata-from-the-connected-database)
 1. [Build a Data Module in Cognos Analytics](#6-build-a-data-module-in-cognos-analytics)
 1. [Create a Cognos Analytics dashboard](#7-create-a-cognos-analytics-dashboard)
 1. [Add visualizations to the dashboard](#8-add-visualizations-to-the-dashboard)
-
 
 ## 1. Create IBM Db2 Warehouse service on IBM Cloud
 
@@ -36,7 +46,15 @@ Create the IBM Db2 Warehouse on Cloud service and make sure to note the credenti
 
 ## 2. Add Db2 service credentials to environment file
 
-Using the same `.env` file you created in the previous section, change the value of `DB2wh_DSN` as shown below:
+Next, you'll need to add the Db2 Warehouse service credentials to the .env file.
+
+* From the home directory of your cloned local repo, create a .env file by copying it from the sample version
+
+  ```bash
+  cp env.sample .env
+  ```
+
+* Edit the `.env` and change the value of `DB2wh_DSN` as shown below:
 
 ```bash
 DB2WH_DSN=<value of ssldsn>
@@ -57,7 +75,7 @@ node save-product-reviews.js
 
 This will create the schema, assign relationships, and load the product and sales data into the database.
 
->NOTE: product reviews are loaded to IBM Db2 Warehouse from CSV files. These csv files contains each product reviews and their sentiments that are generated from discovery service. To learn more about it go to this [code pattern](https://github.com/IBM/cognos-analytics-using-unstructured-data)
+>NOTE: product reviews are loaded into IBM Db2 Warehouse from csv files. These files contain product reviews and sentiment values for each product and are generated from the Watson Discovery service. To learn more about this, visit the code pattern ["Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard"](https://github.com/IBM/cognos-analytics-using-unstructured-data).
 
 ## 4. Create database connection in Cognos Analytics
 
@@ -115,7 +133,7 @@ Select the dashboard template or any other template that fits your need. We are 
 
 ![db-2-dashboard-template](doc/source/images/db-2-dashboard-template.png)
 
->**Note**: In this section we will be creating a new `Dashboard` that is associated with our new `Data Module`. This will mean that this dashboard is not connected to the dashboard we created in the previous section of this code pattern. It is, however, possible to have multiple data modules (in our example, one for our `csv` files and one for our Db2 Warehouse connection) associated with the same dashboard. If you would like to do that, connect the Db2 Warehouse data module to the dashboard you created in the previous section, and simply create a new dashboard tab to hold the new visualizations we will be creating in the following steps.
+>**Note**: In this section we will be creating a new `Dashboard` that is associated with our new `Data Module`. This will mean that this dashboard is not connected to the dashboard we created in part one of our Cognos Analytics code pattern series. It is, however, possible to have multiple data modules (in our example, one for our `csv` files and one for our Db2 Warehouse connection) associated with the same dashboard. If you would like to do that, connect the Db2 Warehouse data module to the dashboard you created in the previous code pattern, and simply create a new dashboard tab to hold the new visualizations that we will be creating in the following steps.
 
 ## 8. Add visualizations to the dashboard
 
@@ -224,9 +242,9 @@ Click the `Save` icon in the top menu to save your dashboard.
 
 #### Dashboard navigation
 
-Just like the dashboard we created in the first section, now that all of your visualizations are defined and linked correctly, you can manipulate the dashboard using your mouse. If you click on a product or store name in any of the visualization objects, the entire dashboard will change to reflect that specific product or store.
+Just like the dashboard we created in the first Cognos Analytics code pattern, now that all of your visualizations are defined and linked correctly, you can manipulate the dashboard using your mouse. If you click on a product or store name in any of the visualization objects, the entire dashboard will change to reflect that specific product or store.
 
-**Congratulations!** You should now know how to navigate your way through setting up and creating data modules and dashboards in Cognos Analytics. You should also understand how to integrate with multiple data sources using Watson Discovery and IBM Db2 Warehouse.
+**Congratulations!** You should now know how to navigate your way through setting up and creating data modules and dashboards in Cognos Analytics. You should also understand how to integrate with different data sources such as IBM Db2 Warehouse.
 
 # License
 
