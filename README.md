@@ -14,6 +14,8 @@ In this code pattern, we will walk you through the process of creating sales, st
 
 **Important**: Before proceeding, ensure that you have access to the latest release of Cognos Analytics. Click [here](https://www.ibm.com/products/cognos-analytics) to get product and pricing information, as well as access to a free trial version.
 
+>NOTE: If you ended up here without completing the first code pattern of the series then, Click [here](https://github.com/IBM/cognos-analytics-using-unstructured-data) to go back to the "Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard" code pattern.
+
 ## Steps
 
 1. [Create IBM Db2 Warehouse service on IBM Cloud](#1-create-ibm-db2-warehouse-service-on-ibm-cloud)
@@ -225,12 +227,6 @@ Click the `Save` icon in the top menu to save your dashboard.
 Just like the dashboard we created in the first section, now that all of your visualizations are defined and linked correctly, you can manipulate the dashboard using your mouse. If you click on a product or store name in any of the visualization objects, the entire dashboard will change to reflect that specific product or store.
 
 **Congratulations!** You should now know how to navigate your way through setting up and creating data modules and dashboards in Cognos Analytics. You should also understand how to integrate with multiple data sources using Watson Discovery and IBM Db2 Warehouse.
-
-# Next steps
-
-Congratulations on completing the Cognos Analytics series.
-
-Click [here](https://github.com/IBM/cognos-analytics-using-unstructured-data) to go back to the "Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard" code pattern.
 
 # License
 
