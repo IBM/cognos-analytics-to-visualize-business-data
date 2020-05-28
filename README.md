@@ -8,7 +8,7 @@ In this code pattern, we add to this case study by introducing business data, su
 
 >**Note**: If you have not yet completed part one of this series on Cognos Analytics, you are encouraged to do so before continuing. Click [here](https://github.com/IBM/cognos-analytics-using-unstructured-data) to go to the "Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard" code pattern.
 
-![architecture-db2](doc/source/images/architecture-db2.png)
+![architecture-db2](doc/source/images/architecture.png)
 
 ## Flow
 
@@ -29,22 +29,29 @@ In this code pattern, we add to this case study by introducing business data, su
 
 ## Steps
 
-1. [Create IBM Db2 Warehouse service on IBM Cloud](#1-create-ibm-db2-warehouse-service-on-ibm-cloud)
-1. [Add Db2 service credentials to environment file](#2-add-db2-service-credentials-to-environment-file)
-1. [Run the script to load data into the database](#3-run-the-script-to-load-data-into-the-database)
-1. [Create database connection in Cognos Analytics](#4-create-database-connection-in-cognos-analytics)
-1. [Load metadata from the connected database](#5-load-metadata-from-the-connected-database)
-1. [Build a Data Module in Cognos Analytics](#6-build-a-data-module-in-cognos-analytics)
-1. [Create a Cognos Analytics dashboard](#7-create-a-cognos-analytics-dashboard)
-1. [Add visualizations to the dashboard](#8-add-visualizations-to-the-dashboard)
+1. [Clone the repo](#1-clone-the-repo)
+1. [Create IBM Db2 Warehouse service on IBM Cloud](#2-create-ibm-db2-warehouse-service-on-ibm-cloud)
+1. [Add Db2 service credentials to environment file](#3-add-db2-service-credentials-to-environment-file)
+1. [Run the script to load data into the database](#4-run-the-script-to-load-data-into-the-database)
+1. [Create database connection in Cognos Analytics](#5-create-database-connection-in-cognos-analytics)
+1. [Load metadata from the connected database](#6-load-metadata-from-the-connected-database)
+1. [Build a Data Module in Cognos Analytics](#7-build-a-data-module-in-cognos-analytics)
+1. [Create a Cognos Analytics dashboard](#8-create-a-cognos-analytics-dashboard)
+1. [Add visualizations to the dashboard](#9-add-visualizations-to-the-dashboard)
 
-## 1. Create IBM Db2 Warehouse service on IBM Cloud
+## 1. Clone the repo
+
+```bash
+git clone https://github.com/IBM/cognos-analytics-to-visualize-business-data
+```
+
+## 2. Create IBM Db2 Warehouse service on IBM Cloud
 
 Create the IBM Db2 Warehouse on Cloud service and make sure to note the credentials using the following link:
 
 * [**IBM Db2 Warehouse on Cloud**](https://cloud.ibm.com/catalog/services/db2-warehouse)
 
-## 2. Add Db2 service credentials to environment file
+## 3. Add Db2 service credentials to environment file
 
 Next, you'll need to add the Db2 Warehouse service credentials to the .env file.
 
@@ -64,7 +71,7 @@ The value can be copied from the `Service credentials` panel of your Db2 Waresho
 
 ![db2warehouse-credentials](doc/source/images/db2wh-service-creds.png)
 
-## 3. Run the script to load data into the database
+## 4. Run the script to load data into the database
 
 From the command prompt, go to the `lib/db` folder in your project directory and run the script to load business data into your IBM Db2 Warehouse service:
 
@@ -77,7 +84,7 @@ This will create the schema, assign relationships, and load the product and sale
 
 >NOTE: product reviews are loaded into IBM Db2 Warehouse from csv files. These files contain product reviews and sentiment values for each product and are generated from the Watson Discovery service. To learn more about this, visit the code pattern ["Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard"](https://github.com/IBM/cognos-analytics-using-unstructured-data).
 
-## 4. Create database connection in Cognos Analytics
+## 5. Create database connection in Cognos Analytics
 
 * From the Cognos Analytics main dashboard, select `Manage` from the lower left corner  and click `Data Server Connections`.
 
@@ -99,7 +106,7 @@ This will create the schema, assign relationships, and load the product and sale
 
 ![dm-2-add-database-connection](doc/source/images/dm-2-add-database-connection.gif)
 
-## 5. Load metadata from the connected Database
+## 6. Load metadata from the connected Database
 
 Once the connection is successful, you will need to load the metadata from the database. This will include tables, relationships and data.
 
@@ -107,7 +114,7 @@ Select `Schemas` from the tab menu, and then select the schema `DB2INST1` from t
 
 ![dm-2-load-metadata](doc/source/images/dm-2-load-metadata.png)
 
-## 6. Build a Data Module in Cognos Analytics
+## 7. Build a Data Module in Cognos Analytics
 
 * From the Cognos Analytics main dashboard, select the `+` icon in the lower left corner. Select `Data Module`.
 
@@ -123,7 +130,7 @@ Select `Schemas` from the tab menu, and then select the schema `DB2INST1` from t
 
 ![dm-2-create-data-module](doc/source/images/dm-2-create-data-module.gif)
 
-## 7. Create a Cognos Analytics dashboard
+## 8. Create a Cognos Analytics dashboard
 
 From the current data module panel, select the `+` icon in the lower left corner. Select `Dashboard`.
 
@@ -135,7 +142,7 @@ Select the dashboard template or any other template that fits your need. We are 
 
 >**Note**: In this section we will be creating a new `Dashboard` that is associated with our new `Data Module`. This will mean that this dashboard is not connected to the dashboard we created in part one of our Cognos Analytics code pattern series. It is, however, possible to have multiple data modules (in our example, one for our `csv` files and one for our Db2 Warehouse connection) associated with the same dashboard. If you would like to do that, connect the Db2 Warehouse data module to the dashboard you created in the previous code pattern, and simply create a new dashboard tab to hold the new visualizations that we will be creating in the following steps.
 
-## 8. Add visualizations to the dashboard
+## 9. Add visualizations to the dashboard
 
 In this section we will create visualizations using the schema and data loaded from our IBM Db2 Warehouse database.
 
