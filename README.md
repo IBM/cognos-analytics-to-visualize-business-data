@@ -49,7 +49,7 @@ and run
 
 ```bash
 npm install
-``
+```
 
 ## 2. Create IBM Db2 Warehouse service on IBM Cloud
 
