@@ -45,6 +45,12 @@ In this code pattern, we add to this case study by introducing business data, su
 git clone https://github.com/IBM/cognos-analytics-to-visualize-business-data
 ```
 
+and run
+
+```bash
+npm install
+```
+
 ## 2. Create IBM Db2 Warehouse service on IBM Cloud
 
 Create the IBM Db2 Warehouse on Cloud service and make sure to note the credentials using the following link:
@@ -73,11 +79,11 @@ The value can be copied from the `Service credentials` panel of your Db2 Waresho
 
 ## 4. Run the script to load data into the database
 
-From the command prompt, go to the `lib/common` folder in your project directory and run the script to load business data into your IBM Db2 Warehouse service:
+From the command prompt, go to the `lib/db` folder in your project directory and run the script to load business data into your IBM Db2 Warehouse service:
 
 ```bash
-cd lib/common/
-node save-product-reviews.js
+cd lib/db/
+node generate-product-business-data.js
 ```
 
 This will create the schema, assign relationships, and load the product and sales data into the database.
