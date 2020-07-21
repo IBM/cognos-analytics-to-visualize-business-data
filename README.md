@@ -73,10 +73,10 @@ The value can be copied from the `Service credentials` panel of your Db2 Waresho
 
 ## 4. Run the script to load data into the database
 
-From the command prompt, go to the `lib/db` folder in your project directory and run the script to load business data into your IBM Db2 Warehouse service:
+From the command prompt, go to the `lib/common` folder in your project directory and run the script to load business data into your IBM Db2 Warehouse service:
 
 ```bash
-cd lib/db/
+cd lib/common/
 node save-product-reviews.js
 ```
 
