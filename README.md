@@ -45,6 +45,12 @@ In this code pattern, we add to this case study by introducing business data, su
 git clone https://github.com/IBM/cognos-analytics-to-visualize-business-data
 ```
 
+and run
+
+```bash
+npm install
+``
+
 ## 2. Create IBM Db2 Warehouse service on IBM Cloud
 
 Create the IBM Db2 Warehouse on Cloud service and make sure to note the credentials using the following link:
