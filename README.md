@@ -4,7 +4,7 @@ To visualize existing business data and analyze the performcance of the products
 
 This code pattern is part two of a series of Cognos Analytics code patterns. In the first code pattern "Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard", we introduce basic Cognos Analytics concepts on how to set up date modules, create dashboards, and navigating the Cognos Analytics UI. We introduce the concept of a coffee manufacturer gaining insights into public preception of their coffee flavors by creating visualizations that track customer ratings and sentiment for their brands over time.
 
-In this code pattern, we add to this case study by introducing business data, such as store information, sales data, and inventory levels. The data will be uploaded into a Db2 Warehouse schema which will then be connected to Cognos Analytics. We will then create dashboards to visualize the business data. Also we will be showing how you can connect to IBM Netezza Performance Server to load data and use it to create dashboards
+In this code pattern, we add to this case study by introducing business data, such as store information, sales data, and inventory levels. The data will be uploaded into a Db2 Warehouse schema which will then be connected to Cognos Analytics. We will then create dashboards to visualize the business data. Also we will be showing how you can connect to Netezza Performance Server to load data and use it to create dashboards
 
 >**Note**: If you have not yet completed part one of this series on Cognos Analytics, you are encouraged to do so before continuing. Click [here](https://github.com/IBM/cognos-analytics-using-unstructured-data) to go to the "Visualize unstructured data from Watson Discovery in the Cognos Analytics Dashboard" code pattern.
 
@@ -14,13 +14,13 @@ In this code pattern, we add to this case study by introducing business data, su
 
 1. Product and business data is loaded into Db2 Warehouse tables.
 1. User runs Cognos Analytics.
-1. Cognos Analytics can be linked to any database such as IBM Db2 Warehouse instance or IBM Netezza Performance Server or Mongodb etc.. There are lot of drivers that allow you to connect to variety of databases. The data can then be used to build visualizations on Cognos Analytics dashboards.
+1. Cognos Analytics can be linked to any database such as IBM Db2 Warehouse instance or Netezza Performance Server or Mongodb etc.. There are lot of drivers that allow you to connect to variety of databases. The data can then be used to build visualizations on Cognos Analytics dashboards.
 
 ## Included components
 
 * [Cognos Analytics](https://www.ibm.com/products/cognos-analytics): A business intelligence solution that empowers users with AI-infused self-service capabilities that accelerate data preparation, analysis, and repot creation.
 * [IBM Db2 Warehouse](https://www.ibm.com/products/db2-warehouse): A client-managed, highly flexible operational data warehouse for private clouds and containerized deployments.
-* [IBM Netezza Performance Server](https://www.ibm.com/products/netezza): An advanced data warehouse and analytics platform available both on premises and on cloud
+* [Netezza Performance Server](https://www.ibm.com/products/netezza): An advanced data warehouse and analytics platform available both on premises and on cloud
 
 **Important**: Before proceeding, ensure that you have access to the latest release of Cognos Analytics. Click [here](https://www.ibm.com/products/cognos-analytics) to get product and pricing information, as well as access to a free trial version.
 
@@ -93,9 +93,9 @@ This will create the schema, assign relationships, and load the product and sale
 
 ## 5. Create database connection in Cognos Analytics
 
-IBM Cognos  Analytics supports connection to many different database like IBM Db2, IBM Netezza performcance server, Mongo Db, Mysql etc. We will be showing how you can connect to IBM Db2 database and IBM Netezza performance server. 
+IBM Cognos  Analytics supports connection to many different database like IBM Db2, Netezza performcance server, Mongo Db, Mysql etc. We will be showing how you can connect to IBM Db2 database and Netezza performance server. 
 
-> NOTE: You can use either IBM Db2 or IBM Netezza performance server. Hence you can either run 5.1 or 5.2 based on what database you use. If you plan to use any other database that Cognos Analytics support, the steps are same but use credentials and urls based on your database.
+> NOTE: You can use either IBM Db2 or Netezza performance server. Hence you can either run 5.1 or 5.2 based on what database you use. If you plan to use any other database that Cognos Analytics support, the steps are same but use credentials and urls based on your database.
 
 ### 5.1. Create connection to IBM Db2 database
 
@@ -119,15 +119,15 @@ IBM Cognos  Analytics supports connection to many different database like IBM Db
 
 ![dm-2-add-database-connection](doc/source/images/dm-2-add-database-connection.gif)
 
-### 5.2. Create connection to IBM Netezza Performance Server
+### 5.2. Create connection to Netezza Performance Server
 
 * From the Cognos Analytics main dashboard, select `Manage` from the lower left corner  and click `Data Server Connections`.
 
 * Click the `+` icon to add a new connection.
 
-* Select `IBM Netezza` from the list.
+* Select `Netezza` from the list.
 
-* Prepare the JDBC URL of your IBM Netezza performance server and paste that into the `JDBC URL` field. The JDBC URL format looks like below:
+* Prepare the JDBC URL of your Netezza performance server and paste that into the `JDBC URL` field. The JDBC URL format looks like below:
 
 ```bash
 jdbc:netezza://<host>:5480/<database>
@@ -137,7 +137,7 @@ jdbc:netezza://<host>:5480/<database>
 
 * Click the `+` icon to add a new `sign on`.
 
-* Enter the username and password of your IBM Netezza performance server.
+* Enter the username and password of your Netezza performance server.
 
 * Click the `Test` link to make sure the connection is successful.
 
@@ -155,7 +155,7 @@ Select `Schemas` from the tab menu, and then select the schema `DB2INST1` from t
 
 ![dm-2-load-metadata](doc/source/images/dm-2-load-metadata.png)
 
-### 6.2. Load metadata for IBM Netezza
+### 6.2. Load metadata for Netezza
 
 Select `Schemas` from the tab menu, and then select the schema `DB2INST1` from the list. Click the three dots on the right and then click `Load metadata`.
 
