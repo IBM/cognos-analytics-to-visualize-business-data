@@ -12,7 +12,7 @@ In this code pattern, we add to this case study by introducing business data, su
 
 ## Flow
 
-1. Product and business data is loaded into Db2 Warehouse tables.
+1. Product and business data is loaded into any database, such as IBM Db2 Warehouse, Netezza Performance Server, and MongoDB.
 1. User runs Cognos Analytics.
 1. Cognos Analytics can be linked to any database, such as IBM Db2 Warehouse, Netezza Performance Server, and MongoDB.
 
@@ -53,12 +53,14 @@ npm install
 ```
 
 ## 2. Create IBM Db2 Warehouse service on IBM Cloud
+>NOTE:  This step is required only when you use IBM Db2 Warehouse as database.
 
 Create the IBM Db2 Warehouse on Cloud service and make sure to note the credentials using the following link:
 
 * [**IBM Db2 Warehouse on Cloud**](https://cloud.ibm.com/catalog/services/db2-warehouse)
 
 ## 3. Add Db2 service credentials to environment file
+>NOTE:  This step is required only when you use IBM Db2 Warehouse as database. 
 
 Next, you'll need to add the Db2 Warehouse service credentials to the .env file.
 
@@ -79,6 +81,7 @@ The value can be copied from the `Service credentials` panel of your Db2 Waresho
 ![db2warehouse-credentials](doc/source/images/db2wh-service-creds.png)
 
 ## 4. Run the script to load data into the database
+>NOTE:  This step is required only when you use IBM Db2 Warehouse as database. The loading of the data for any other databases that Cognos Analytics support is manual.
 
 From the command prompt, go to the `lib/db` folder in your project directory and run the script to load business data into your IBM Db2 Warehouse service:
 
