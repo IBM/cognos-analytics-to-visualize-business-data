@@ -12,7 +12,7 @@ In this code pattern, we add to this case study by introducing business data, su
 
 ## Flow
 
-1. Product and business data is loaded into Db2 Warehouse tables.
+1. Product and business data is loaded into any database, such as IBM Db2 Warehouse, Netezza Performance Server, and MongoDB.
 1. User runs Cognos Analytics.
 1. Cognos Analytics can be linked to any database, such as IBM Db2 Warehouse, Netezza Performance Server, and MongoDB.
 
